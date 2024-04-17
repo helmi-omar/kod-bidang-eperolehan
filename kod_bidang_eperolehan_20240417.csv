@@ -1,0 +1,607 @@
+"kod_bidang","bidang","sub_bidang","pecahan_sub_bidang","perihal","jenis_pembekal"
+"01","01",,,PENERBITAN DAN PENYIARAN,Kontraktor
+"0101","01","01",,Penerbitan,Kontraktor
+"010101","01","01","01",Bahan Bacaan Terbitan Luar Negara,Kontraktor
+"010102","01","01","02",Bahan Bacaan,Kontraktor
+"010103","01","01","03",Penerbitan Elektronik Atas Talian,Kontraktor
+"010104","01","01","04",Bahan Penerbitan Elektronik Dan Muzik/ Lagu (Siap Cetak),Kontraktor
+"0102","01","02",,Kertas,Kontraktor
+"010201","01","02","01",Kertas,Kontraktor
+"010299","01","02","99",Pembuat,Kontraktor
+"0103","01","03",,Peralatan Penerbitan/ Percetakan,Kontraktor
+"010301","01","03","01",Peralatan Percetakan Serta Aksesori,Kontraktor
+"010302","01","03","02","Peralatan Sistem Bunyi, Pembesar Suara Dan Projektor",Kontraktor
+"010303","01","03","03",Peralatan/ Perkakasan Penyuntingan/ Persembahan,Kontraktor
+"010304","01","03","04",Medium Penyimpanan,Kontraktor
+"010399","01","03","99",Pembuat,Kontraktor
+"0104","01","04",,Papan Tanda Dan Aksesori,Kontraktor
+"010401","01","04","01",Papan Tanda Dan Aksesori,Kontraktor
+"010499","01","04","99",Pembuat,Kontraktor
+"0105","01","05",,Fotografi Dan Filem,Kontraktor
+"010501","01","05","01",Kamera Dan Aksesori,Kontraktor
+"010502","01","05","02","Peralatan Pemprosesan Fotografi, Mikrofilem",Kontraktor
+"010503","01","05","03",Filem Dan Mikrofilem,Kontraktor
+"010504","01","05","04",Filem Siap Untuk Tayangan (Lesen B FINAS - Pengedar),Kontraktor
+"010599","01","05","99",Pembuat,Kontraktor
+"0106","01","06",,Peralatan Pendidikan Dan Latihan,Kontraktor
+"010601","01","06","01",Kit Pendidikan,Kontraktor
+"010602","01","06","02",Bahan Pendidikan,Kontraktor
+"010699","01","06","99",Pembuat,Kontraktor
+"02","02",,,"PERABOT, PERALATAN PEJABAT, HIASAN DALAMAN DAN DOMESTIK",Kontraktor
+"0201","02","01",,"Perabot, Kelengkapan Dan Aksesori",Kontraktor
+"020101","02","01","01","Perabot, Perabot Makmal Dan Kelengkapan Berasaskan Kayu/ Rotan/ Fabrik/ Logam/ Plastik (Workstation)",Kontraktor
+"020102","02","01","02",Barangan Hiasan Dalaman Dan Aksesori,Kontraktor
+"020103","02","01","03",Permaidani/ Ambar,Kontraktor
+"020199","02","01","99",Pembuat,Kontraktor
+"0202","02","02",,Mesin-mesin Pejabat Dan Aksesori,Kontraktor
+"020201","02","02","01",Mesin-mesin Pejabat Dan Aksesori,Kontraktor
+"020299","02","02","99",Pembuat,Kontraktor
+"0203","02","03",,Perkakas Elektrik Dan Elektronik,Kontraktor
+"020301","02","03","01",Perkakas Elektrik Dan Aksesori,Kontraktor
+"020302","02","03","02",Perkakas Elektronik Dan Aksesori,Kontraktor
+"020399","02","03","99",Pembuat,Kontraktor
+"0204","02","04",,Peralatan Dan Perkakas Domestik,Kontraktor
+"020401","02","04","01",Peralatan Dan Perkakas Domestik (Termasuk Barang-barang Yang Tidak Lekat Di Badan),Kontraktor
+"020402","02","04","02","Perkakasan Dan Bahan Kebersihan Diri Dan Mandian, Kelengkapan Bilik Air Dan Aksesori",Kontraktor
+"020403","02","04","03",Bahan Pencuci Dan Pembersihan,Kontraktor
+"020404","02","04","04",Solekan Dan Andaman,Kontraktor
+"020499","02","04","99",Pembuat,Kontraktor
+"0205","02","05",,Bahan Pembungkusan/ Bekas,Kontraktor
+"020501","02","05","01",Bahan Pembungkusan/ Bekas/ Kotak/ Palet,Kontraktor
+"020599","02","05","99",Pembuat,Kontraktor
+"0206","02","06",,Bekalan Pejabat Dan Alatulis,Kontraktor
+"020601","02","06","01",Alatulis (Tidak Termasuk Borang Dan Semua Jenis Kertas),Kontraktor
+"020602","02","06","02","Bahan Surih, Drafting Dan Alat Lukis",Kontraktor
+"020603","02","06","03","Organiser, Dairi, Kalendar, Buku Alamat, Resit, Memo",Kontraktor
+"020604","02","06","04",Tag/ Label/ Tanda Dan Stiker,Kontraktor
+"020699","02","06","99",Pembuat,Kontraktor
+"0207","02","07",,Tekstil,Kontraktor
+"020701","02","07","01",Tekstil,Kontraktor
+"020799","02","07","99",Pembuat,Kontraktor
+"0208","02","08",,Pakaian Dan Kelengkapan,Kontraktor
+"020801","02","08","01",Pakaian,Kontraktor
+"020802","02","08","02",Kelengkapan Pakaian,Kontraktor
+"020803","02","08","03",Bagasi Dan Beg Dari Kulit/ PVC/ Kanvas/ Kain/ Nylon/ Plastik/ Logam/ Dll,Kontraktor
+"020804","02","08","04","Pakaian Keselamatan, Kelengkapan Dan Aksesori",Kontraktor
+"020899","02","08","99",Pembuat,Kontraktor
+"0209","02","09",,Bahan Tarpaulin Dan Kanvas,Kontraktor
+"020901","02","09","01",Bahan Tarpaulin Dan Kanvas,Kontraktor
+"020999","02","09","99",Pembuat,Kontraktor
+"0210","02","10",,Aksesori Dan Bekalan Jahitan,Kontraktor
+"021001","02","10","01",Butang Dan Bekalan Jahitan (Kits),Kontraktor
+"021099","02","10","99",Pembuat,Kontraktor
+"03","03",,,"SUKAN, REKREASI DAN ALAT MUZIK (Peralatan, Bekalan Dan Aksesori Sukan Dan Rekreasi)",Kontraktor
+"0301","03","01",,Pakaian Sukan Dan Aksesori,Kontraktor
+"030101","03","01","01",Pakaian Sukan Dan Aksesori,Kontraktor
+"030199","03","01","99",Pembuat,Kontraktor
+"0302","03","02",,Cenderamata Dan Hadiah,Kontraktor
+"030201","03","02","01",Cenderamata Dan Hadiah,Kontraktor
+"030299","03","02","99",Pembuat,Kontraktor
+"0303","03","03",,Alat Muzik,Kontraktor
+"030301","03","03","01",Alat Muzik Dan Aksesori,Kontraktor
+"030399","03","03","99",Pembuat,Kontraktor
+"0304","03","04",,Peralatan Dan Aksesori Perkhemahan Dan Aktiviti Luar,Kontraktor
+"030401","03","04","01",Peralatan Perkhemahan Dan Aktiviti Luar,Kontraktor
+"030402","03","04","02",Peralatan Memancing,Kontraktor
+"030403","03","04","03",Peralatan Memburu,Kontraktor
+"030499","03","04","99",Pembuat,Kontraktor
+"0305","03","05",,"Peralatan Sukan Padang, Gelanggang, Rekreasi, Taman Permainan, Kecergasan Dan Sukan Air",Kontraktor
+"030501","03","05","01",Peralatan Sukan,Kontraktor
+"030599","03","05","99",Pembuat,Kontraktor
+"04","04",,,"MAKANAN, MINUMAN DAN BAHAN MENTAH",Kontraktor
+"0401","04","01",,"Makanan, Minuman Dan Bahan Mentah Kering/ Basah",Kontraktor
+"040101","04","01","01",Makanan Dan Bahan Mentah Kering/ Basah,Kontraktor
+"040102","04","01","02","Makanan Dan Minuman (Tin, Botol Dan Bungkus)",Kontraktor
+"040103","04","01","03",Makanan Bermasak (Islam),Kontraktor
+"040104","04","01","04",Makanan Bermasak (Bukan Islam),Kontraktor
+"040199","04","01","99",Pembuat,Kontraktor
+"05","05",,,"PERALATAN HOSPITAL, PERUBATAN, UBAT-UBATAN DAN FARMASEUTIKAL",Kontraktor
+"0501","05","01",,"Peralatan Hospital, Bahan Dan Kelengkapan Perubatan",Kontraktor
+"050101","05","01","01",Peralatan Dan Kelengkapan Hospital,Kontraktor
+"050102","05","01","02",Peralatan Dan Kelengkapan Perubatan,Kontraktor
+"050103","05","01","03",Peralatan Untuk Orang Kurang Upaya Dan Pemulihan,Kontraktor
+"050199","05","01","99",Pembuat,Kontraktor
+"0502","05","02",,Ubat Dan Bahan Ubatan,Kontraktor
+"050201","05","02","01",Dadah Berjadual [Perlu Lesen Di Bawah Peraturan-peraturan Kawalan Dadah Dan Kosmetik 1984 dari Kementerian Kesihatan Malaysia(KKM)],Kontraktor
+"050202","05","02","02",Racun Berjadual (Lesen Akta Racun 1952 dari Pengarah Kesihatan Negeri),Kontraktor
+"050203","05","02","03",Ubat Tidak Berjadual,Kontraktor
+"050204","05","02","04",Makanan/ Minuman Tambahan (Food Suppliment),Kontraktor
+"050299","05","02","99",Pembuat [Perlu Lesen Pengilang (Borang 2) Dari KKM],Kontraktor
+"0503","05","03",,"Pekakas, Tekstil dan Pakaian Perubatan Pakai Buang/ Guna Semula",Kontraktor
+"050301","05","03","01",Pekakas Perubatan Pakai Buang,Kontraktor
+"050302","05","03","02",Pakaian/ Tekstil Pakai Buang Kakitangan/ Pesakit,Kontraktor
+"050303","05","03","03",Pakaian/ Tekstil Guna Semula Kakitangan/ Pesakit,Kontraktor
+"050399","05","03","99",Pembuat,Kontraktor
+"06","06",,,"KIMIA, BAHAN KIMIA DAN PERALATAN MAKMAL",Kontraktor
+"0601","06","01",,Kimia,Kontraktor
+"060101","06","01","01",Kimia Makmal,Kontraktor
+"060102","06","01","02",Kimia Industri,Kontraktor
+"060103","06","01","03",Kimia Memproses Air,Kontraktor
+"060104","06","01","04",Kimia Memproses Filem/ Fotografi,Kontraktor
+"060199","06","01","99",Pembuat,Kontraktor
+"0602","06","02",,Bahan Biokimia Dan Gas,Kontraktor
+"060201","06","02","01","Bahan Peledak (Belerang, Pelarut Hidrokabon Dan Beroksigen/ Gunpowder)",Kontraktor
+"060202","06","02","02",Bunga Api Dan Mercun,Kontraktor
+"060203","06","02","03",Pencucuh/ Alat Penghasil Nyalaan,Kontraktor
+"060204","06","02","04",Gas (Industri Dan Domestik),Kontraktor
+"060205","06","02","05",Pewarna/ Pencelup/ Lilin,Kontraktor
+"060299","06","02","99",Pembuat,Kontraktor
+"0603","06","03",,Bahan Bakar Dan Pelincir,Kontraktor
+"060301","06","03","01",Bahan Bakar,Kontraktor
+"060302","06","03","02",Bahan Pelincir,Kontraktor
+"060303","06","03","03",Bahan Api Nuklear,Kontraktor
+"060399","06","03","99",Pembuat,Kontraktor
+"0604","06","04",,"Cat, Anti Kakis Dan Bahan Tambah",Kontraktor
+"060401","06","04","01",Cat,Kontraktor
+"060402","06","04","02",Anti Kakis/ Bahan Tambah,Kontraktor
+"060499","06","04","99",Pembuat,Kontraktor
+"0605","06","05",,Peralatan Makmal,Kontraktor
+"060501","06","05","01",Peralatan Makmal Serta Aksesori,Kontraktor
+"060502","06","05","02","Peralatan Makmal Pengukuran, Pencerapan Dan Sukat",Kontraktor
+"060599","06","05","99",Pembuat,Kontraktor
+"07","07",,,"PERTANIAN, PERHUTANAN DAN TERNAKAN",Kontraktor
+"0701","07","01",,Baja Dan Racun,Kontraktor
+"070101","07","01","01",Baja Dan Nutrien Tumbuhan (Organik/ Bukan Organik),Kontraktor
+"070102","07","01","02","Racun Serangga/ Perosak, Rumpai/ Tumbuhan",Kontraktor
+"070199","07","01","99",Pembuat,Kontraktor
+"0702","07","02",,"Tanaman, Ternakan, Baka Tanaman/ Ternakan Dan Sampel (Bahan Yang Telah Diawetkan)",Kontraktor
+"070201","07","02","01",Tanaman/ Baka/ Benih Semaian,Kontraktor
+"070202","07","02","02",Haiwan Ternakan/ Bukan Ternakan Dan Akuatik,Kontraktor
+"070203","07","02","03",Sampel Dan Sampel Awetan Haiwan/ Akuatik/ Serangga/ Tumbuhan,Kontraktor
+"0703","07","03",,"Ubat, Makanan Ternakan/ Tumbuhan, Peralatan Dan Aksesori",Kontraktor
+"070301","07","03","01",Ubat Haiwan/ Akuatik,Kontraktor
+"070302","07","03","02",Makanan Haiwan/ Akuatik,Kontraktor
+"070303","07","03","03",Peralatan Dan Kelengkapan Pertanian/ Ternakan/ Akuatik,Kontraktor
+"070304","07","03","04",Hasil Sampingan Dan Sisa Perladangan,Kontraktor
+"070305","07","03","05",Habitat Dan Tempat Kurungan Haiwan,Kontraktor
+"070306","07","03","06",Peralatan Pengawalan Perosak Tanaman,Kontraktor
+"070399","07","03","99",Pembuat,Kontraktor
+"08","08",,,"KEJURUTERAAN AWAM, BINAAN DAN KELENGKAPAN KEMUDAHAN AWAM",Kontraktor
+"0801","08","01",,Kelengkapan/ Kemudahan Awam,Kontraktor
+"080101","08","01","01",Kelengkapan/ Kemudahan Awam (Kecuali Kelengkapan Kemudahan Permainan/ Sukan),Kontraktor
+"080102","08","01","02",Kontena,Kontraktor
+"080199","08","01","99",Pembuat,Kontraktor
+"09","09",,,BAHAN BINAAN DAN PERALATAN KESELAMATAN JALAN RAYA,Kontraktor
+"0901","09","01",,Bahan Binaan,Kontraktor
+"090101","09","01","01",Bahan Binaan,Kontraktor
+"090102","09","01","02",Paip Dan Kelengkapan,Kontraktor
+"090199","09","01","99",Pembuat,Kontraktor
+"0902","09","02",,Peralatan Keselamatan Jalan Raya,Kontraktor
+"090201","09","02","01",Peralatan Keselamatan/ Perabot Jalan Raya,Kontraktor
+"090299","09","02","99",Pembuat Keselamatan/ Perabot Jalan Raya,Kontraktor
+"10","10",,,PERALATAN SUKATAN DAN UKURAN,Kontraktor
+"1001","10","01",,Peralatan Sukatan Dan Ukuran,Kontraktor
+"100101","10","01","01",Semua Peralatan Sukatan/ Ukuran,Kontraktor
+"100199","10","01","99",Pembuat,Kontraktor
+"11","11",,,"PENGANGKUTAN, KOMPONEN DAN AKSESORI",Kontraktor
+"1101","11","01",,Kenderaan Bermotor Dan Tidak Bermotor,Kontraktor
+"110101","11","01","01",Basikal,Kontraktor
+"110102","11","01","02",Motosikal,Kontraktor
+"110103","11","01","03",Kereta,Kontraktor
+"110104","11","01","04",Lori,Kontraktor
+"110105","11","01","05",Bas,Kontraktor
+"110106","11","01","06",Kenderaan Kegunaan Khusus,Kontraktor
+"110199","11","01","99",Pembuat,Kontraktor
+"1102","11","02",,Jentera Berat,Kontraktor
+"110201","11","02","01",Jentera Berat,Kontraktor
+"110202","11","02","02",Kren,Kontraktor
+"110203","11","02","03",Trailer Dan Aksesori,Kontraktor
+"110299","11","02","99",Pembuat,Kontraktor
+"1103","11","03",,Alat Ganti Dan Aksesori Kenderaan/ Jentera Berat,Kontraktor
+"110301","11","03","01",Alat Ganti/ Aksesori Kenderaan,Kontraktor
+"110302","11","03","02",Alat Ganti/ Aksesori Jentera Berat,Kontraktor
+"110303","11","03","03",Enjin Kenderaan/ Jentera Berat,Kontraktor
+"110304","11","03","04",Peralatan Servis Dan Selenggara,Kontraktor
+"110399","11","03","99",Pembuat,Kontraktor
+"1104","11","04",,"Kenderaan Ber Rel, Peralatan Dan Alat Ganti",Kontraktor
+"110401","11","04","01","Kenderaan Ber Rel, Peralatan Dan Kereta Kabel",Kontraktor
+"110402","11","04","02",Lokomotif Dan Troli Elektrik,Kontraktor
+"110403","11","04","03","Sistem, Peralatan, Alat Ganti Keretapi Dan Aksesori",Kontraktor
+"110499","11","04","99",Pembuat,Kontraktor
+"1105","11","05",,"Pesawat Udara, Kapal Terbang, Kapal Angkasa, Satelit, Radar",Kontraktor
+"110501","11","05","01",Pesawat Udara,Kontraktor
+"110502","11","05","02",Helikopter,Kontraktor
+"110503","11","05","03",Alatganti Dan Kelengkapan Pesawat/ Helikopter,Kontraktor
+"110504","11","05","04",Kapal Angkasa Dan Alatganti,Kontraktor
+"110505","11","05","05",Satelit Dan Alatganti,Kontraktor
+"110506","11","05","06",Radar Dan Alatganti,Kontraktor
+"110507","11","05","07",Simulator,Kontraktor
+"110599","11","05","99",Pembuat,Kontraktor
+"1106","11","06",,Bot Dan Kapal,Kontraktor
+"110601","11","06","01",Bot,Kontraktor
+"110602","11","06","02",Kapal Laut/ Kapal Selam,Kontraktor
+"110603","11","06","03",Alat Ganti Dan Kelengkapan Bot/ Kapal/ Kapal Selam,Kontraktor
+"110604","11","06","04",Simulator Bot/ Kapal/ Kapal Selam,Kontraktor
+"110699","11","06","99",Pembuat,Kontraktor
+"1107","11","07",,Peralatan Marin,Kontraktor
+"110701","11","07","01",Peralatan Marin,Kontraktor
+"110799","11","07","99",Pembuat,Kontraktor
+"12","12",,,PERTAHANAN DAN KESELAMATAN,Kontraktor
+"1201","12","01",,"Senjata, Peluru, Bahan Letupan Dan Aksesori",Kontraktor
+"120101","12","01","01",Senjata Api,Kontraktor
+"120102","12","01","02",Peluru Dan Bom,Kontraktor
+"120103","12","01","03",Aksesori Senjata Api,Kontraktor
+"120104","12","01","04",Bahan Letupan/ Complete Rounds,Kontraktor
+"120199","12","01","99",Pembuat,Kontraktor
+"1202","12","02",,Kelengkapan Sasaran,Kontraktor
+"120201","12","02","01",Kelengkapan Sasaran,Kontraktor
+"120299","12","02","99",Pembuat,Kontraktor
+"1203","12","03",,"Misil, Roket Dan Sub-Sistem",Kontraktor
+"120301","12","03","01",Peluru Berpandu,Kontraktor
+"120302","12","03","02",Sub Sistem Roket,Kontraktor
+"120303","12","03","03",Pelancar Misil Dan Roket,Kontraktor
+"120399","12","03","99",Pembuat,Kontraktor
+"1204","12","04",,Peralatan Keselamatan Dan Penguatkuasaan,Kontraktor
+"120401","12","04","01","Alat Keselamatan, Perlindungan Dan Kawalan Perlindungan Dan Kawalan",Kontraktor
+"120402","12","04","02",Alat Forensik Dan Aksesori,Kontraktor
+"120499","12","04","99",Pembuat,Kontraktor
+"1205","12","05",,"Pengesanan, Pemantauan Dan Perlindungan",Kontraktor
+"120501","12","05","01","Kunci, Perkakasan Perlindungan Dan Aksesori",Kontraktor
+"120502","12","05","02",Peralatan Pemantauan Dan Pengesanan,Kontraktor
+"120503","12","05","03",Lesen/ Pengenalan Dan Pas Keselamatan Bersalut (Laminated),Kontraktor
+"120599","12","05","99",Pembuat,Kontraktor
+"1206","12","06",,Perlindungan Kebakaran,Kontraktor
+"120601","12","06","01",Sistem Pencegah Kebakaran,Kontraktor
+"120602","12","06","02",Peralatan Kawalan Api,Kontraktor
+"120699","12","06","99",Pembuat,Kontraktor
+"13","13",,,PERALATAN KEJURUTERAAN DAN MESIN PENGELUARAN,Kontraktor
+"1301","13","01",,"Mesin, Kelengkapan Bengkel Dan Mesin Pengeluaran",Kontraktor
+"130101","13","01","01",Mesin Dan Kelengkapan Bengkel,Kontraktor
+"130102","13","01","02",Mesin Dan Kelengkapan Khusus,Kontraktor
+"130199","13","01","99",Pembuat,Kontraktor
+"1302","13","02",,Janakuasa Elektrik Dan Peralatan Generator/ Alat Ganti Dan Bateri,Kontraktor
+"130201","13","02","01","Janakuasa, Peralatan/ Alat Ganti/ Aksesori (Secondary)",Kontraktor
+"130202","13","02","02",Mesin Dan Kelengkapan Khusus,Kontraktor
+"130299","13","02","99",Pembuat,Kontraktor
+"1303","13","03",,Sistem Kumbahan,Kontraktor
+"130301","13","03","01",Peralatan Sistem Kumbahan Dan Aksesori,Kontraktor
+"130399","13","03","99",Pembuat,Kontraktor
+"1304","13","04",,Peralatan Perindustrian Minyak,Kontraktor
+"130401","13","04","01",Peralatan Perindustrian Huluan,Kontraktor
+"130402","13","04","02",Peralatan Perindustrian Hiliran,Kontraktor
+"130499","13","04","99",Pembuat,Kontraktor
+"14","14",,,PERALATAN KEJURUTERAAN ELEKTRIK DAN ELEKTRONIK,Kontraktor
+"1401","14","01",,Mesin Dan Jentera Penjanaan Dan Pengagihan Tenaga Elektrik Serta Aksesori,Kontraktor
+"140101","14","01","01",Motor Dan Alat Ubah/ Alat Ganti,Kontraktor
+"140102","14","01","02","Enjin, Komponen Enjin Dan Aksesori",Kontraktor
+"140103","14","01","03",Komponen Enjin Pembakaran Dalaman/ Gas Turbine,Kontraktor
+"140199","14","01","99",Pembuat,Kontraktor
+"1402","14","02",,Stesen Janakuasa Elektrik Dan Peralatan Generator/ Alat Ganti Dan Bateri,Kontraktor
+"140201","14","02","01","Stesen Janakuasa, Peralatan/ Alat Ganti/ Aksesori (Primary)",Kontraktor
+"140202","14","02","02",Penjana Kuasa,Kontraktor
+"140203","14","02","03",Alat Penyimpan Tenaga Dan Aksesori,Kontraktor
+"140299","14","02","99",Pembuat,Kontraktor
+"1403","14","03",,"Kabel, Wayar Elektrik Dan Aksesori",Kontraktor
+"140301","14","03","01",Kabel Elektrik Dan Aksesori,Kontraktor
+"140302","14","03","02",Wayar Elektrik Dan Aksesori,Kontraktor
+"140399","14","03","99",Pembuat,Kontraktor
+"1404","14","04",,Peralatan Untuk Tenaga Atom Dan Nuklear,Kontraktor
+"140401","14","04","01",Reaktor Dan Instrumen Nuklear,Kontraktor
+"140499","14","04","99",Pembuat,Kontraktor
+"1405","14","05",,"Sistem, Komponen Elektrik, Elektronik, Lampu Dan Aksesori",Kontraktor
+"140501","14","05","01",Sistem Elektronik,Kontraktor
+"140502","14","05","02",Komponen Dan Aksesori Elektrik/ Elektronik,Kontraktor
+"140503","14","05","03","Lampu, Komponen Lampu Dan Aksesori",Kontraktor
+"140599","14","05","99",Pembuat,Kontraktor
+"21","21",,,ICT (INFORMATION COMMUNICATION TECHNOLOGY) (Bekalan Dan Perkhidmatan Bagi Sektor Teknologi Maklumat Dan Komunikasi),Kontraktor
+"2101","21","01",,"Peralatan Dan Kelengkapan Komputer, Perkakasan Dan Komponen",Kontraktor
+"210101","21","01","01","Hardware (Low End Technology) – Supply All Types of Computer Hardware Including PC, Notebook, Printer, Document Scanner, Peripherals And Maintenance",Kontraktor
+"210102","21","01","02","Hardware (High End Technology) – All Types of Server, Mainframe, High End Printers, Storage Area Network Software (SAN, NAS) Including Maintenance",Kontraktor
+"210103","21","01","03","Software – Supply All Computers Software, Operating System, Database, Off-The-Shelf Packages Including Maintenance",Kontraktor
+"210104","21","01","04","Software/ System Development/ Customization and Maintenance Including Data Entry, Data Processing",Kontraktor
+"210105","21","01","05","Telecommunication/ Networking-supply Product, Infrastructure, Services Including Maintenance (LAN/ WAN/ Internet/ Wireless/ Satellite)",Kontraktor
+"210106","21","01","06",Data Management – Provide Services Including Disaster,Kontraktor
+"210107","21","01","07","ICT Security and Firewall, Encryption, PKI, Anti Virus",Kontraktor
+"210108","21","01","08","Multimedia-Products, Services and Maintenance (Video Conferencing, Web Cast, Graphic Design, Animation)",Kontraktor
+"210109","21","01","09",Hardware and Software Leasing/ Renting,Kontraktor
+"210110","21","01","10",Geographic Information System (GIS) and Services,Kontraktor
+"210111","21","01","11",Independent Verification and Validation (IV&V),Kontraktor
+"210199","21","01","99",Pembuat,Kontraktor
+"2102","21","02",,Peralatan Dan Kelengkapan Telekomunikasi,Kontraktor
+"210201","21","02","01",Alat Perhubungan,Kontraktor
+"210202","21","02","02",Sistem Perhubungan/ Telekomunikasi,Kontraktor
+"210203","21","02","03",Aksesori Penghubung Dan Telekomunikasi,Kontraktor
+"210299","21","02","99",Pembuat,Kontraktor
+"22","22",,,PERKHIDMATAN,Kontraktor
+"2201","22","01",,Penyelenggaraan Dan Pembaikan Kenderaan,Kontraktor
+"220101","22","01","01",Basikal (Tidak Perlu Lawatan Pengesahan),Kontraktor
+"220102","22","01","02",Motosikal,Kontraktor
+"220103","22","01","03",Kenderaan Kegunaan Khusus (Seperti Kenderaan Rekreasi),Kontraktor
+"220104","22","01","04",Kenderaan Bawah 3 Ton,Kontraktor
+"220105","22","01","05",Kenderaan Melebihi 3 Ton,Kontraktor
+"220106","22","01","06","Jentera Berat (Lori Pelarik Tanah, Roller Dan Forklift)",Kontraktor
+"220107","22","01","07",Kerja-Kerja Khusus (Baikpulih Enjin) Dan Sebagainya,Kontraktor
+"220108","22","01","08",Kerja-Kerja Mengetuk dan Mengecat,Kontraktor
+"220109","22","01","09",Alat Hawa Dingin Kenderaan,Kontraktor
+"220110","22","01","10",Membaik Pulih Tempat Duduk/ Kusyen Dan Bumbung,Kontraktor
+"220111","22","01","11",Kerja-Kerja Pembaikan Kenderaan Ber Rel Dan Kereta Kabel,Kontraktor
+"220112","22","01","12",Kerja-Kerja Penyelenggaraan Sistem Kenderaan,Kontraktor
+"220113","22","01","13",Membaik Pulih Tayar (Tidak Perlu Lawatan Pengesahan),Kontraktor
+"220114","22","01","14",Membaik Pulih Bateri (Tidak Perlu Lawatan Pengesahan),Kontraktor
+"220115","22","01","15",Kenderaan Pertahanan/ Keselamatan Negara – Motosikal,Kontraktor
+"220116","22","01","16",Kenderaan Pertahanan/ Keselamatan Negara – Kenderaan Kegunaan Khusus,Kontraktor
+"220117","22","01","17",Kenderaan Pertahanan/ Keselamatan Negara – Kenderaan Bawah 3 Ton,Kontraktor
+"220118","22","01","18",Kenderaan Pertahanan/ Keselamatan Negara – Kenderaan Melebihi 3 Ton,Kontraktor
+"220119","22","01","19",Kenderaan Pertahanan/ Keselamatan Negara – Jentera Berat,Kontraktor
+"220120","22","01","20",Kenderaan Pertahanan/ Keselamatan Negara – Kerja-Kerja Khusus (Baikpulih  Enjin) Dan Sebagainya,Kontraktor
+"220121","22","01","21",Kenderaan Pertahanan/ Keselamatan Negara – Kerja-kerja Mengetuk dan Mengecat,Kontraktor
+"220122","22","01","22",Kenderaan Pertahanan/ Keselamatan Negara – Alat Hawa Dingin Kenderaan,Kontraktor
+"220123","22","01","23",Kenderaan Pertahanan/ Keselamatan Negara – Membaik Pulih Tempat Duduk/ Kusyen dan Bumbung,Kontraktor
+"220124","22","01","24",Kenderaan Pertahanan/ Keselamatan Negara – Kerja-Kerja Penyelenggaraan Sistem Kenderaan,Kontraktor
+"2202","22","02",,"Penyelenggaraan/ Pembaikan Mesin, Perabot Pejabat/ Kediaman",Kontraktor
+"220201","22","02","01",Mesin-Mesin Pejabat/ Kediaman,Kontraktor
+"220202","22","02","02",Perabot Pejabat/ Kediaman,Kontraktor
+"220203","22","02","03","Alat Muzik, Kesenian Dan Aksesori",Kontraktor
+"2203","22","03",,Penyelenggaraan/ Pembaikan Alat Hawa Dingin,Kontraktor
+"220301","22","03","01",Alat Hawa Dingin (Window/ Split/ Berpusat),Kontraktor
+"2204","22","04",,Penyelenggaraan/ Pembaikan Alat Keselamatan,Kontraktor
+"220401","22","04","01",Alat Kebombaan/ Alat Penyelamat/ Pemadam Api,Kontraktor
+"220402","22","04","02",Peralatan Kawalan Keselamatan,Kontraktor
+"220403","22","04","03",Mesin Pengimbas,Kontraktor
+"2205","22","05",,Penyelenggaraan/ Pembaikan Kejuruteraan Dan Komunikasi,Kontraktor
+"220501","22","05","01",Alat Semboyan/ Perhubungan/ Penyiaran,Kontraktor
+"220502","22","05","02",Kontena/ Tangki,Kontraktor
+"220503","22","05","03",Perkakas/ Sistem Elektrik,Kontraktor
+"220504","22","05","04",Mesin dan Peralatan Woksyop,Kontraktor
+"220505","22","05","05",Mechanisation System,Kontraktor
+"220506","22","05","06",Membaiki Buff Fuel Tank,Kontraktor
+"220507","22","05","07",Pump/ Paip Air Dan Komponen,Kontraktor
+"220508","22","05","08",Baikpulih Barang-Barang Logam,Kontraktor
+"220509","22","05","09","Production Testing, Surface Well Testing and Wire Line Services",Kontraktor
+"220510","22","05","10",Faksimili,Kontraktor
+"2206","22","06",,Penyelenggaraan/ Pembaikan Peralatan/ Kelengkapan Perubatan dan Makmal,Kontraktor
+"220601","22","06","01",Alat Kelengkapan Perubatan/ Makmal,Kontraktor
+"220602","22","06","02",Mesin Dan Peralatan Makmal,Kontraktor
+"2207","22","07",,"Penyelenggaraan/ Pembaikan Bot/ Kapal, Helikopter, Simulator Dan Pesawat",Kontraktor
+"220701","22","07","01",Bot/ Kapal/ Barge/ Kapal Selam/ Jet Ski/ Sampan (Limbungan/ Tanpa Limbungan),Kontraktor
+"220702","22","07","02",Sand Blasting Dan Mengecat Untuk Kapal (Tidak Perlu Lawatan Pengesahan),Kontraktor
+"220703","22","07","03",Penyelenggaraan Kapal Terbang,Kontraktor
+"220704","22","07","04",Penyelenggaraan Helikopter,Kontraktor
+"220705","22","07","05",Penyelenggaraan Simulator Kapal,Kontraktor
+"220706","22","07","06",Penyelenggaraan Simulator Kapal Terbang,Kontraktor
+"220707","22","07","07",Penyelenggaraan Simulator Helikopter,Kontraktor
+"220708","22","07","08",Pembaikan Kenderaan Yang Tidak Berenjin,Kontraktor
+"220709","22","07","09",Kerja Pembaikan Kapal Angkasa/ Satelit,Kontraktor
+"220710","22","07","10",Alat-Alat Marin (Tidak Termasuk Bot/ Kapal),Kontraktor
+"220711","22","07","11",Kenderaan Pertahanan/ Keselamatan Negara – Bot/ Kapal/ Barge/ Kapal Selam /Jet Ski (Limbungan/ Tanpa Limbungan),Kontraktor
+"220712","22","07","12","Kenderaan Pertahanan/ Keselamatan Negara – Sand Blasting Dan Mengecat Untuk Kapal""",Kontraktor
+"220713","22","07","13",Kenderaan Pertahanan/ Keselamatan Negara – Penyelenggaraan Kapal Terbang,Kontraktor
+"220714","22","07","14",Kenderaan Pertahanan/ Keselamatan Negara – Penyelenggaraan Helikopter,Kontraktor
+"2208","22","08",,Pertahanan Dan Keselamatan,Kontraktor
+"220801","22","08","01",Kawalan Keselamatan (Perlu lesen KDN),Kontraktor
+"220802","22","08","02",Penyiasat Persendirian (Perlu lesen KDN),Kontraktor
+"220803","22","08","03",Penyelenggaraan Dan Pembaikan Senjata,Kontraktor
+"220804","22","08","04","Penyelenggaraan Misil/ Roket Dan Sub Sistem, Pelancar",Kontraktor
+"2209","22","09",,Pengawalan Dan Pengawasan,Kontraktor
+"220901","22","09","01","Kawalan Serangga Perosak, Anti Termite (Perlu Lesen Pengendali Kawalan Makhluk Perosak dari Jabatan Pertanian)",Kontraktor
+"220902","22","09","02",Menangkap/ Menembak Haiwan,Kontraktor
+"2210","22","10",,Khidmat Kebersihan Dan Rawatan,Kontraktor
+"221001","22","10","01",Pembersihan Bangunan Dan Pejabat,Kontraktor
+"221002","22","10","02",Membersih Kawasan,Kontraktor
+"221003","22","10","03",Mengangkat Sampah,Kontraktor
+"221004","22","10","04",Membersih Kenderaan (Perlu Lesen PBT),Kontraktor
+"221005","22","10","05",Mencuci Kolam Renang,Kontraktor
+"221006","22","10","06",Membersih Pantai/ Sungai/ Terusan/ Empangan/ Tasik,Kontraktor
+"221007","22","10","07",Pelupusan Dan Perawatan Sisa Berbahaya [Perlu Lesen daripada Lembaga Perlesenan Tenaga ATOM (AELB)],Kontraktor
+"221008","22","10","08",Pelupusan Dan Perawatan Buangan Terjadual (Perlu Lesen daripada Jabatan Alam Sekitar),Kontraktor
+"221009","22","10","09",Pelupusan dan Rawatan Sisa Radio Aktif dan Nuklear [Perlu Lesen daripada Lembaga Perlesenan Tenaga ATOM (AELB)],Kontraktor
+"221010","22","10","10",Kolam Kumbahan/ Sisa Perawatan/ Talian Paip/ Sesalur,Kontraktor
+"221011","22","10","11",Pembersihan Tumpahan Minyak,Kontraktor
+"2211","22","11",,Guna Tenaga,Kontraktor
+"221101","22","11","01",Kakitangan Iktisas (Profesional) - Tidak Termasuk Khidmat Perundingan,Kontraktor
+"221102","22","11","02",Kakitangan Separa Iktisas (Semi Profesional) - Tidak Termasuk Khidmat Perundingan,Kontraktor
+"221103","22","11","03",Khidmat Guaman,Kontraktor
+"221104","22","11","04",Tenaga Buruh,Kontraktor
+"221105","22","11","05",Pemungut Hutang/ Penghantar Notis,Kontraktor
+"221106","22","11","06",Stevedor,Kontraktor
+"221107","22","11","07",Telly Clerk,Kontraktor
+"221108","22","11","08",Mengikat Dan Melepas Tali Kapal (Mooring),Kontraktor
+"221109","22","11","09",Menyelam (Diving Service),Kontraktor
+"221110","22","11","10","Khidmat Latihan, Tenaga Pengajar dan Moderator/ Negotiator",Kontraktor
+"221111","22","11","11",Salvage Boat/ Kapal,Kontraktor
+"221112","22","11","12",Malim Kapal,Kontraktor
+"2212","22","12",,Khidmat Udara/ Laut/ Darat,Kontraktor
+"221201","22","12","01",Topografi/ LIDAR,Kontraktor
+"221202","22","12","02",Pembajaan/ Pest Control,Kontraktor
+"221203","22","12","03",Cloud Seeding,Kontraktor
+"221204","22","12","04",Hidrografi,Kontraktor
+"221205","22","12","05",Oceanografi,Kontraktor
+"221206","22","12","06",Pemetaan/ Pemetaan Utiliti Bawah Tanah,Kontraktor
+"221207","22","12","07",Geologi,Kontraktor
+"2213","22","13",,"Kesenian, Hiburan Dan Pelancongan",Kontraktor
+"221301","22","13","01",Pengeluaran Filem (Perlu Lesen FINAS Borang A - Pengeluar),Kontraktor
+"221302","22","13","02",Rakaman,Kontraktor
+"221303","22","13","03",Fotografi,Kontraktor
+"221304","22","13","04",Audio Visual,Kontraktor
+"221305","22","13","05","Penyediaan Pentas/ Pameran Pertunjukan, Taman Hiburan Dan Karnival/ Pestaria",Kontraktor
+"221306","22","13","06",Artis Dan Penghibur Profesional,Kontraktor
+"221307","22","13","07",Agen Pengembaraan (Dikhaskan Kepada Syarikat 100% Bumiputera),Kontraktor
+"221308","22","13","08",Dokumentasi Dan Panduarah,Kontraktor
+"221309","22","13","09",Pemeliharaan Bahan Bahan Sejarah Dan Tempat Bersejarah,Kontraktor
+"221310","22","13","10",Penyimpanan Rekod (Surat Kelulusan Daripada Arkib Negara),Kontraktor
+"221311","22","13","11",Membaikpulih Bahan Terbitan Dan Manuskrip (Surat Kelulusan Daripada Arkib Negara),Kontraktor
+"2214","22","14",,Pengindahan,Kontraktor
+"221401","22","14","01",Bangunan/ Hiasan Dalaman (Tidak Termasuk Pelanskapan Dan Seni Taman),Kontraktor
+"221402","22","14","02",Hiasan Jalan/ Kawasan (Tidak Termasuk Pelanskapan Dan Seni Taman),Kontraktor
+"2215","22","15",,Penyewaan Dan Pengurusan,Kontraktor
+"221501","22","15","01",Perabot/ Kelengkapan,Kontraktor
+"221502","22","15","02",Mesin dan Peralatan Pejabat,Kontraktor
+"221503","22","15","03",Kenderaan/ Jentera/ Kenderaan Rekreasi,Kontraktor
+"221504","22","15","04",Kapal/ Bot/ Bot Tunda/ Feri/ Bot Malim/ Barge/ Jet Ski/ Kapal Selam,Kontraktor
+"221505","22","15","05",Kapal Terbang/ Helikopter/ Pesawat/ Belon Panas/ Simulator Serta Lain- Lain Kenderaan Udara,Kontraktor
+"221506","22","15","06",Bangunan/ Pejabat/ Stor/ Ruang Niaga/ Rumah Kediaman,Kontraktor
+"221507","22","15","07",Kemudahan Awam/ Sukan,Kontraktor
+"221508","22","15","08",Peralatan/ Kelengkapan Hospital Dan Makmal,Kontraktor
+"221509","22","15","09",Peralatan Keselamatan dan Senjata,Kontraktor
+"221510","22","15","10",Tempat Letak Kereta,Kontraktor
+"221511","22","15","11",P.A Sistem Dan Alat Muzik,Kontraktor
+"221512","22","15","12",Bantuan Kecemasan Dan Ambulans/ Kenderaan Jenazah,Kontraktor
+"221513","22","15","13",Pakaian/ Kelengkapan Dan Aksesori,Kontraktor
+"2216","22","16",,Percetakan,Kontraktor
+"221601","22","16","01","Mencetak Buku, Majalah, Laporan Akhbar (Perlu Lesen KDN)",Kontraktor
+"221602","22","16","02","Mencetak Fail, Kad Perniagaan Dan Kad Ucapan (Perlu Lesen KDN)",Kontraktor
+"221603","22","16","03","Mencetak Label, Poster, Pelekat Dan Iron On (Perlu Lesen KDN)",Kontraktor
+"221604","22","16","04","Mencetak Label, Poster Dan Pelekat (Plastik) (Perlu Lesen KDN)",Kontraktor
+"221605","22","16","05",Mencetak Continuous Stationery Forms (Perlu Lesen KDN),Kontraktor
+"221606","22","16","06",Mencetak Borang/Kertas Komputer (Perlu Lesen KDN),Kontraktor
+"221607","22","16","07","Cetakan Keselamatan (Perlu Lesen KDN Dan Surat Kelulusan Pejabat Ketua Pengarah Keselamatan Kerajaan, Jabatan Perdana Menteri) (Dikhaskan Kepada Syarikat 100% Bumiputera)""",Kontraktor
+"221608","22","16","08","Cetakan Hologram (Perlu Lesen KDN Dan Surat Kelulusan Pejabat Ketua Pengarah Keselamatan Kerajaan, Jabatan Perdana Menteri) (Dikhaskan Kepada Syarikat 100% Bumiputera)""",Kontraktor
+"221609","22","16","09",Pisah Warna (Colour Separation),Kontraktor
+"221610","22","16","10",Menjilid Kulit Keras,Kontraktor
+"221611","22","16","11",Varnishing,Kontraktor
+"221612","22","16","12",Laminating,Kontraktor
+"221613","22","16","13",Menjilid Kulit Lembut,Kontraktor
+"221614","22","16","14",Pengatur Huruf (Type Setting),Kontraktor
+"221615","22","16","15",Rekabentuk Percetakan (Printing Design),Kontraktor
+"2217","22","17",,"Perkhidmatan Pengangkutan, Penyimpanan Dan Pos",Kontraktor
+"221701","22","17","01",Pemilik Kapal (Perlu Sijil MCR),Kontraktor
+"221702","22","17","02",Broker Perkapalan (Perjanjian Daripada Syarikat Perkapalan),Kontraktor
+"221703","22","17","03",Agen Perkapalan (Perlu Lesen Kastam),Kontraktor
+"221704","22","17","04",Pengangkutan Lori (Perlu Lesen APAD),Kontraktor
+"221705","22","17","05",Agen Penghantaran (Perlu Lesen Kastam),Kontraktor
+"221706","22","17","06",Pembungkusan Dan Penyimpanan (Perlu Gudang Berlesen Kastam Dan Lesen PBT),Kontraktor
+"221707","22","17","07",Pembungkusan,Kontraktor
+"221708","22","17","08",Penghantaran Dokumen (Perlu Lesen Pos),Kontraktor
+"221709","22","17","09",Multimodal Transport Operator (MTO),Kontraktor
+"221710","22","17","10",Perkhidmatan Mel Pukal,Kontraktor
+"221711","22","17","11",Pengurusan Pelabuhan,Kontraktor
+"221712","22","17","12",Ship Chandling,Kontraktor
+"221713","22","17","13",Ship Trimming,Kontraktor
+"2218","22","18",,Perkhidmatan Kewangan Dan Insuran,Kontraktor
+"221801","22","18","01",Syarikat Insuran (Perlu Lesen Bank Negara Malaysia),Kontraktor
+"221802","22","18","02",Broker Insuran (Perlu Lesen Bank Negara Malaysia),Kontraktor
+"221803","22","18","03",Penyediaan Akaun Dan Pengauditan,Kontraktor
+"221804","22","18","04",Pengurusan Kewangan Dan Korporat,Kontraktor
+"221805","22","18","05",Pemfaktoran (Dimansuhkan),Kontraktor
+"221806","22","18","06",Syarikat Pelelong Awam (Perlu Lesen Pelelong PBT),Kontraktor
+"2219","22","19",,Barang Lusuh,Kontraktor
+"221901","22","19","01",Membeli Barang Lusuh Tanpa Permit,Kontraktor
+"221902","22","19","02",Membeli Barang Lusuh Perlu Permit (Perlu Permit PDRM),Kontraktor
+"2220","22","20",,"Editorial, Rakbentuk Grafik, Seni Halus Dan Harta Intelek",Kontraktor
+"222001","22","20","01",Media Elektronik (Tidak Termasuk Kerja-kerja Percetakan),Kontraktor
+"222002","22","20","02",Media Cetak (Tidak Termasuk Kerja-kerja Percetakan),Kontraktor
+"222003","22","20","03",Bill Board,Kontraktor
+"222004","22","20","04",Penulisan – Semua Jenis Penulisan,Kontraktor
+"222005","22","20","05",Mereka-Cipta Dan Seni Halus,Kontraktor
+"222006","22","20","06",Penterjemahan,Kontraktor
+"222007","22","20","07",Pengkomersilan,Kontraktor
+"222008","22","20","08",Hak Harta Intelek (Patent),Kontraktor
+"222009","22","20","09",Lain-lain Media Media Pengiklanan,Kontraktor
+"222010","22","20","10",Perkhidmatan Fotostat,Kontraktor
+"2221","22","21",,Perkhidmatan Perladangan/ Perikanan/ Haiwan Dan Hidupan Liar,Kontraktor
+"222101","22","21","01",Perikanan Dan Akuakultur,Kontraktor
+"222102","22","21","02",Hortikultur,Kontraktor
+"222103","22","21","03",Ternakan,Kontraktor
+"222104","22","21","04",Pertanian/ Tanaman/ Ladang/ Taman/ Hutan Dan Ladang Hutan,Kontraktor
+"222105","22","21","05",Rawatan Hutan,Kontraktor
+"222106","22","21","06",Sumber Air,Kontraktor
+"222107","22","21","07",Tatahias Haiwan,Kontraktor
+"222108","22","21","08",Tukun Tiruan,Kontraktor
+"2222","22","22",,Perkhidmatan Hal Ehwal Sosial Dan Politik,Kontraktor
+"222201","22","22","01",Hubungan Antarabangsa,Kontraktor
+"222202","22","22","02",Bantuan Kemanusiaan,Kontraktor
+"222203","22","22","03",Dasar Dan Peraturan,Kontraktor
+"2223","22","23",,Perkhidmatan Domestik,Kontraktor
+"222301","22","23","01",Solekan,Kontraktor
+"222302","22","23","02",Dobi,Kontraktor
+"222303","22","23","03",Membekal Air,Kontraktor
+"222304","22","23","04",Pengurusan Jenazah Dan Kelengkapan,Kontraktor
+"222305","22","23","05",Mengangkut Mayat,Kontraktor
+"2224","22","24",,Perkhidmatan Menjahit Dan Baik Pulih,Kontraktor
+"222401","22","24","01",Menjahit Pakaian Dan Kelengkapan,Kontraktor
+"222402","22","24","02",Menjahit Bukan Pakaian,Kontraktor
+"222403","22","24","03",Baik Pulih Kasut Dan Barangan Kulit,Kontraktor
+"222404","22","24","04",Barangan PVC/ Kanvas,Kontraktor
+"222405","22","24","05",Barangan Logam,Kontraktor
+"2225","22","25",,"Hotel, Rumah Tumpangan Dan Pusat Latihan",Kontraktor
+"222501","22","25","01",Hotel/ Resort (Perlu Sijil Pendaftaran Premis Penginapan bawah Akta Industri Pelancongan 1992 MOTAC dan Lesen PBT),Kontraktor
+"222502","22","25","02",Motel/ Chalet/ Rumah Tumpangan (Perlu Lesen PBT),Kontraktor
+"222503","22","25","03",Homestay (Perlu Kementerian Surat Kementerian Pelancongan),Kontraktor
+"222504","22","25","04",Pusat Latihan (Perlu Lesen PBT),Kontraktor
+"2226","22","26",,Perkhidmatan Kejuruteraan Elektrik Dan Elektronik,Kontraktor
+"222601","22","26","01",Akustik Dan Gelombang,Kontraktor
+"222602","22","26","02",Pencahayaan (Illumination),Kontraktor
+"2227","22","27",,Perkhidmatan Lain-lain,Kontraktor
+"222701","22","27","01",Pengurusan Telekomunikasi,Kontraktor
+"222702","22","27","02",Marker/ DNA,Kontraktor
+"222703","22","27","03",Bioteknologi,Kontraktor
+"222704","22","27","04",Pensijilan Dan Pengiktirafan,Kontraktor
+"222705","22","27","05",Ujian Makmal,Kontraktor
+"222706","22","27","06",Kodifikasi,Kontraktor
+"222707","22","27","07",Perkhidmatan Perubatan - Dialisis,Kontraktor
+"2228","22","28",,Perkidmatan Teknologi Hijau,Kontraktor
+"222801","22","28","01",Teknologi Hijau [Surat/ Sijil Daripada Suruhanjaya Tenaga (Energy Commission) atau Malaysia Green Technology Corporation],Kontraktor
+"2229","22","29",,Seni Ukir,Kontraktor
+"222901","22","29","01",Ukiran Berasaskan Kayu [Perlu Kemukakan Sijil Pendaftaran Dengan Perbadanan Kemajuan Kraftangan Malaysia (PKKM)],Kontraktor
+"33","33",,,PERKHIDMATAN PERUNDING FIZIKAL,Perunding
+"3301","33","01",,KEJURUTERAAN,Perunding
+"330101","33","01","01",Kejuruteraan Awam,Perunding
+"330102","33","01","02",Kejuruteraan Struktur,Perunding
+"330103","33","01","03",Kejuruteraan Elektrik,Perunding
+"330104","33","01","04",Kejuruteraan Mekanikal,Perunding
+"330105","33","01","05",Kejuruteraan Elektronik,Perunding
+"330106","33","01","06",Kejuruteraan Kimia,Perunding
+"330107","33","01","07",Kejuruteraan Perlombongan,Perunding
+"330108","33","01","08",Kejuruteraan Marin,Perunding
+"330109","33","01","09",Kejuruteraan Geoteknik,Perunding
+"330110","33","01","10",Kejuruteraan Industri,Perunding
+"330111","33","01","11",Kejuruteraan ‘Naval Architecture’,Perunding
+"330112","33","01","12",Kejuruteraan Aeroangkasa,Perunding
+"330113","33","01","13",Kejuruteraan Pertanian,Perunding
+"330114","33","01","14",Kejuruteraan Telekomunikasi,Perunding
+"330115","33","01","15",Kejuruteraan Nuklear,Perunding
+"330116","33","01","16",Penilaian Harta (Forensic),Perunding
+"3302","33","02",,BUKAN KEJURUTERAAN,Perunding
+"330201","33","02","01",Arkitek,Perunding
+"330202","33","02","02",Ukur Bahan,Perunding
+"330203","33","02","03",Ukur Tanah,Perunding
+"330204","33","02","04",Hiasan Dalaman,Perunding
+"330205","33","02","05",Arkitek Lanskap,Perunding
+"330206","33","02","06",Perancang Bandar Dan Wilayah,Perunding
+"330207","33","02","07",Kajian Alam Sekitar,Perunding
+"330208","33","02","08",Ukur Bangunan (Institut Juruukur Malaysia),Perunding
+"330209","33","02","09",Pengurusan Nilai Fizikal,Perunding
+"330210","33","02","10",Sains Kesihatan/Perancangan Perubatan,Perunding
+"330211","33","02","11",Geologi,Perunding
+"34","34",,,PERKHIDMATAN PERUNDING BUKAN FIZIKAL,Perunding
+"3401","34","01",,SOSIO EKONOMI,Perunding
+"340101","34","01","01",Kajian Organisasi,Perunding
+"340102","34","01","02",Kajian Penswastaan dan Pengkomersilan,Perunding
+"340103","34","01","03",Kajian Ekonomi,Perunding
+"340104","34","01","04",Kajian Kemasyarakatan,Perunding
+"340105","34","01","05",Kajian Pemasaran dan Penyelidikan,Perunding
+"340106","34","01","06",Kajian Sumber Manusia,Perunding
+"340107","34","01","07",Kajian Pelancongan,Perunding
+"340108","34","01","08",Kajian Keselamatan,Perunding
+"340109","34","01","09",Pengurusan Nilai Bukan Fizikal,Perunding
+"3402","34","02",,PENGANGKUTAN,Perunding
+"340201","34","02","01",Kajian Rangkaian Pengangkutan,Perunding
+"340202","34","02","02",Kajian Trafik,Perunding
+"3403","34","03",,MARIN,Perunding
+"340301","34","03","01",Kajian Marin,Perunding
+"3404","34","04",,KEWANGAN,Perunding
+"340401","34","04","01",Kajian Kewangan,Perunding
+"340402","34","04","02",Kajian Percukaian,Perunding
+"340403","34","04","03",Penilaian Harta/Hartanah,Perunding
+"340404","34","04","04",Kajian Pelaburan,Perunding
+"3405","34","05",,PERTANIAN,Perunding
+"340501","34","05","01",Kajian Perhutanan,Perunding
+"340502","34","05","02",Kajian Pertanian,Perunding
+"340503","34","05","03",Kajian Sumber Asli/Rekreasi & Taman-Taman,Perunding
+"340504","34","05","04",Teknologi Makanan,Perunding
+"340505","34","05","05",Kajian Perikanan,Perunding
+"340506","34","05","06",Kajian Komoditi,Perunding
+"3406","34","06",,INFORMASI DAN TEKNOLOGI MAKLUMAT (ICT),Perunding
+"340601","34","06","01",Kajian Telekomunikasi,Perunding
+"340602","34","06","02",Perancangan Strategik ICT (ISP),Perunding
+"340603","34","06","03",Kajian Pengurusan Infrastruktur ICT,Perunding
+"340604","34","06","04",Kajian Pengurusan Keselamatan ICT,Perunding
+"340605","34","06","05",Kajian Pengurusan Maklumat ICT,Perunding
+"3408","34","08",,PENCAHAYAAN & BUNYI,Perunding
+"340801","34","08","01",Kajian Pencahayaan,Perunding
+"340802","34","08","02",Kajian Audiovisual dan Akustik,Perunding
+"3409","34","09",,PERUNDANGAN,Perunding
+"340901","34","09","01",Kajian Perundangan,Perunding
+"3410","34","10",,TENAGA,Perunding
+"341001","34","10","01",Kajian Pengurusan Tenaga,Perunding
+"341002","34","10","02",Kajian Teknologi Hijau,Perunding
