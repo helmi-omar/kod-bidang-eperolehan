@@ -1,0 +1,4851 @@
+{
+"select kod_bidang, bidang, sub_bidang, pecahan_sub_bidang, perihal, jenis_pembekal from kod.kod_bidang order by kod_bidang ": [
+	{
+		"kod_bidang" : "01",
+		"bidang" : "01",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PENERBITAN DAN PENYIARAN",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0101",
+		"bidang" : "01",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Penerbitan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010101",
+		"bidang" : "01",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Bahan Bacaan Terbitan Luar Negara",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010102",
+		"bidang" : "01",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Bahan Bacaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010103",
+		"bidang" : "01",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Penerbitan Elektronik Atas Talian",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010104",
+		"bidang" : "01",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Bahan Penerbitan Elektronik Dan Muzik\/ Lagu (Siap Cetak)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0102",
+		"bidang" : "01",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Kertas",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010201",
+		"bidang" : "01",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kertas",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010299",
+		"bidang" : "01",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0103",
+		"bidang" : "01",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Penerbitan\/ Percetakan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010301",
+		"bidang" : "01",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Peralatan Percetakan Serta Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010302",
+		"bidang" : "01",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Peralatan Sistem Bunyi, Pembesar Suara Dan Projektor",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010303",
+		"bidang" : "01",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Peralatan\/ Perkakasan Penyuntingan\/ Persembahan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010304",
+		"bidang" : "01",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Medium Penyimpanan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010399",
+		"bidang" : "01",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0104",
+		"bidang" : "01",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Papan Tanda Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010401",
+		"bidang" : "01",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Papan Tanda Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010499",
+		"bidang" : "01",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0105",
+		"bidang" : "01",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Fotografi Dan Filem",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010501",
+		"bidang" : "01",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kamera Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010502",
+		"bidang" : "01",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Peralatan Pemprosesan Fotografi, Mikrofilem",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010503",
+		"bidang" : "01",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Filem Dan Mikrofilem",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010504",
+		"bidang" : "01",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Filem Siap Untuk Tayangan (Lesen B FINAS - Pengedar)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010599",
+		"bidang" : "01",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0106",
+		"bidang" : "01",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Pendidikan Dan Latihan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010601",
+		"bidang" : "01",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kit Pendidikan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010602",
+		"bidang" : "01",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Bahan Pendidikan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "010699",
+		"bidang" : "01",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "02",
+		"bidang" : "02",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERABOT, PERALATAN PEJABAT, HIASAN DALAMAN DAN DOMESTIK",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0201",
+		"bidang" : "02",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perabot, Kelengkapan Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020101",
+		"bidang" : "02",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Perabot, Perabot Makmal Dan Kelengkapan Berasaskan Kayu\/ Rotan\/ Fabrik\/ Logam\/ Plastik (Workstation)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020102",
+		"bidang" : "02",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Barangan Hiasan Dalaman Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020103",
+		"bidang" : "02",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Permaidani\/ Ambar",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020199",
+		"bidang" : "02",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0202",
+		"bidang" : "02",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Mesin-mesin Pejabat Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020201",
+		"bidang" : "02",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Mesin-mesin Pejabat Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020299",
+		"bidang" : "02",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0203",
+		"bidang" : "02",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perkakas Elektrik Dan Elektronik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020301",
+		"bidang" : "02",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Perkakas Elektrik Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020302",
+		"bidang" : "02",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Perkakas Elektronik Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020399",
+		"bidang" : "02",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0204",
+		"bidang" : "02",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Dan Perkakas Domestik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020401",
+		"bidang" : "02",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Peralatan Dan Perkakas Domestik (Termasuk Barang-barang Yang Tidak Lekat Di Badan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020402",
+		"bidang" : "02",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Perkakasan Dan Bahan Kebersihan Diri Dan Mandian, Kelengkapan Bilik Air Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020403",
+		"bidang" : "02",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Bahan Pencuci Dan Pembersihan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020404",
+		"bidang" : "02",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Solekan Dan Andaman",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020499",
+		"bidang" : "02",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0205",
+		"bidang" : "02",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Bahan Pembungkusan\/ Bekas",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020501",
+		"bidang" : "02",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Bahan Pembungkusan\/ Bekas\/ Kotak\/ Palet",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020599",
+		"bidang" : "02",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0206",
+		"bidang" : "02",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Bekalan Pejabat Dan Alatulis",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020601",
+		"bidang" : "02",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Alatulis (Tidak Termasuk Borang Dan Semua Jenis Kertas)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020602",
+		"bidang" : "02",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Bahan Surih, Drafting Dan Alat Lukis",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020603",
+		"bidang" : "02",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Organiser, Dairi, Kalendar, Buku Alamat, Resit, Memo",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020604",
+		"bidang" : "02",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Tag\/ Label\/ Tanda Dan Stiker",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020699",
+		"bidang" : "02",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0207",
+		"bidang" : "02",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Tekstil",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020701",
+		"bidang" : "02",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Tekstil",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020799",
+		"bidang" : "02",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0208",
+		"bidang" : "02",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Pakaian Dan Kelengkapan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020801",
+		"bidang" : "02",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Pakaian",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020802",
+		"bidang" : "02",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kelengkapan Pakaian",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020803",
+		"bidang" : "02",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Bagasi Dan Beg Dari Kulit\/ PVC\/ Kanvas\/ Kain\/ Nylon\/ Plastik\/ Logam\/ Dll",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020804",
+		"bidang" : "02",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Pakaian Keselamatan, Kelengkapan Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020899",
+		"bidang" : "02",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0209",
+		"bidang" : "02",
+		"sub_bidang" : "09",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Bahan Tarpaulin Dan Kanvas",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020901",
+		"bidang" : "02",
+		"sub_bidang" : "09",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Bahan Tarpaulin Dan Kanvas",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "020999",
+		"bidang" : "02",
+		"sub_bidang" : "09",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0210",
+		"bidang" : "02",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Aksesori Dan Bekalan Jahitan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "021001",
+		"bidang" : "02",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Butang Dan Bekalan Jahitan (Kits)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "021099",
+		"bidang" : "02",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "03",
+		"bidang" : "03",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "SUKAN, REKREASI DAN ALAT MUZIK (Peralatan, Bekalan Dan Aksesori Sukan Dan Rekreasi)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0301",
+		"bidang" : "03",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Pakaian Sukan Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030101",
+		"bidang" : "03",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Pakaian Sukan Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030199",
+		"bidang" : "03",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0302",
+		"bidang" : "03",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Cenderamata Dan Hadiah",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030201",
+		"bidang" : "03",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Cenderamata Dan Hadiah",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030299",
+		"bidang" : "03",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0303",
+		"bidang" : "03",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Alat Muzik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030301",
+		"bidang" : "03",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Alat Muzik Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030399",
+		"bidang" : "03",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0304",
+		"bidang" : "03",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Dan Aksesori Perkhemahan Dan Aktiviti Luar",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030401",
+		"bidang" : "03",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Peralatan Perkhemahan Dan Aktiviti Luar",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030402",
+		"bidang" : "03",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Peralatan Memancing",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030403",
+		"bidang" : "03",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Peralatan Memburu",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030499",
+		"bidang" : "03",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0305",
+		"bidang" : "03",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Sukan Padang, Gelanggang, Rekreasi, Taman Permainan, Kecergasan Dan Sukan Air",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030501",
+		"bidang" : "03",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Peralatan Sukan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "030599",
+		"bidang" : "03",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "04",
+		"bidang" : "04",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "MAKANAN, MINUMAN DAN BAHAN MENTAH",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0401",
+		"bidang" : "04",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Makanan, Minuman Dan Bahan Mentah Kering\/ Basah",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "040101",
+		"bidang" : "04",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Makanan Dan Bahan Mentah Kering\/ Basah",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "040102",
+		"bidang" : "04",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Makanan Dan Minuman (Tin, Botol Dan Bungkus)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "040103",
+		"bidang" : "04",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Makanan Bermasak (Islam)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "040104",
+		"bidang" : "04",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Makanan Bermasak (Bukan Islam)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "040199",
+		"bidang" : "04",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "05",
+		"bidang" : "05",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERALATAN HOSPITAL, PERUBATAN, UBAT-UBATAN DAN FARMASEUTIKAL",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0501",
+		"bidang" : "05",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Hospital, Bahan Dan Kelengkapan Perubatan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050101",
+		"bidang" : "05",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Peralatan Dan Kelengkapan Hospital",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050102",
+		"bidang" : "05",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Peralatan Dan Kelengkapan Perubatan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050103",
+		"bidang" : "05",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Peralatan Untuk Orang Kurang Upaya Dan Pemulihan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050199",
+		"bidang" : "05",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0502",
+		"bidang" : "05",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Ubat Dan Bahan Ubatan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050201",
+		"bidang" : "05",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Dadah Berjadual [Perlu Lesen Di Bawah Peraturan-peraturan Kawalan Dadah Dan Kosmetik 1984 dari Kementerian Kesihatan Malaysia(KKM)]",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050202",
+		"bidang" : "05",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Racun Berjadual (Lesen Akta Racun 1952 dari Pengarah Kesihatan Negeri)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050203",
+		"bidang" : "05",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Ubat Tidak Berjadual",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050204",
+		"bidang" : "05",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Makanan\/ Minuman Tambahan (Food Suppliment)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050299",
+		"bidang" : "05",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat [Perlu Lesen Pengilang (Borang 2) Dari KKM]",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0503",
+		"bidang" : "05",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Pekakas, Tekstil dan Pakaian Perubatan Pakai Buang\/ Guna Semula",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050301",
+		"bidang" : "05",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Pekakas Perubatan Pakai Buang",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050302",
+		"bidang" : "05",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Pakaian\/ Tekstil Pakai Buang Kakitangan\/ Pesakit",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050303",
+		"bidang" : "05",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Pakaian\/ Tekstil Guna Semula Kakitangan\/ Pesakit",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "050399",
+		"bidang" : "05",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "06",
+		"bidang" : "06",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "KIMIA, BAHAN KIMIA DAN PERALATAN MAKMAL",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0601",
+		"bidang" : "06",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Kimia",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060101",
+		"bidang" : "06",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kimia Makmal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060102",
+		"bidang" : "06",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kimia Industri",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060103",
+		"bidang" : "06",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Kimia Memproses Air",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060104",
+		"bidang" : "06",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Kimia Memproses Filem\/ Fotografi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060199",
+		"bidang" : "06",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0602",
+		"bidang" : "06",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Bahan Biokimia Dan Gas",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060201",
+		"bidang" : "06",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Bahan Peledak (Belerang, Pelarut Hidrokabon Dan Beroksigen\/ Gunpowder)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060202",
+		"bidang" : "06",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Bunga Api Dan Mercun",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060203",
+		"bidang" : "06",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Pencucuh\/ Alat Penghasil Nyalaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060204",
+		"bidang" : "06",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Gas (Industri Dan Domestik)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060205",
+		"bidang" : "06",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Pewarna\/ Pencelup\/ Lilin",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060299",
+		"bidang" : "06",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0603",
+		"bidang" : "06",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Bahan Bakar Dan Pelincir",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060301",
+		"bidang" : "06",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Bahan Bakar",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060302",
+		"bidang" : "06",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Bahan Pelincir",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060303",
+		"bidang" : "06",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Bahan Api Nuklear",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060399",
+		"bidang" : "06",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0604",
+		"bidang" : "06",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Cat, Anti Kakis Dan Bahan Tambah",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060401",
+		"bidang" : "06",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Cat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060402",
+		"bidang" : "06",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Anti Kakis\/ Bahan Tambah",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060499",
+		"bidang" : "06",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0605",
+		"bidang" : "06",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Makmal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060501",
+		"bidang" : "06",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Peralatan Makmal Serta Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060502",
+		"bidang" : "06",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Peralatan Makmal Pengukuran, Pencerapan Dan Sukat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "060599",
+		"bidang" : "06",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "07",
+		"bidang" : "07",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERTANIAN, PERHUTANAN DAN TERNAKAN",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0701",
+		"bidang" : "07",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Baja Dan Racun",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070101",
+		"bidang" : "07",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Baja Dan Nutrien Tumbuhan (Organik\/ Bukan Organik)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070102",
+		"bidang" : "07",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Racun Serangga\/ Perosak, Rumpai\/ Tumbuhan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070199",
+		"bidang" : "07",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0702",
+		"bidang" : "07",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Tanaman, Ternakan, Baka Tanaman\/ Ternakan Dan Sampel (Bahan Yang Telah Diawetkan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070201",
+		"bidang" : "07",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Tanaman\/ Baka\/ Benih Semaian",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070202",
+		"bidang" : "07",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Haiwan Ternakan\/ Bukan Ternakan Dan Akuatik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070203",
+		"bidang" : "07",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Sampel Dan Sampel Awetan Haiwan\/ Akuatik\/ Serangga\/ Tumbuhan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0703",
+		"bidang" : "07",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Ubat, Makanan Ternakan\/ Tumbuhan, Peralatan Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070301",
+		"bidang" : "07",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Ubat Haiwan\/ Akuatik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070302",
+		"bidang" : "07",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Makanan Haiwan\/ Akuatik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070303",
+		"bidang" : "07",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Peralatan Dan Kelengkapan Pertanian\/ Ternakan\/ Akuatik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070304",
+		"bidang" : "07",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Hasil Sampingan Dan Sisa Perladangan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070305",
+		"bidang" : "07",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Habitat Dan Tempat Kurungan Haiwan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070306",
+		"bidang" : "07",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Peralatan Pengawalan Perosak Tanaman",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "070399",
+		"bidang" : "07",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "08",
+		"bidang" : "08",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "KEJURUTERAAN AWAM, BINAAN DAN KELENGKAPAN KEMUDAHAN AWAM",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0801",
+		"bidang" : "08",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Kelengkapan\/ Kemudahan Awam",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "080101",
+		"bidang" : "08",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kelengkapan\/ Kemudahan Awam (Kecuali Kelengkapan Kemudahan Permainan\/ Sukan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "080102",
+		"bidang" : "08",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kontena",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "080199",
+		"bidang" : "08",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "09",
+		"bidang" : "09",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "BAHAN BINAAN DAN PERALATAN KESELAMATAN JALAN RAYA",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0901",
+		"bidang" : "09",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Bahan Binaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "090101",
+		"bidang" : "09",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Bahan Binaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "090102",
+		"bidang" : "09",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Paip Dan Kelengkapan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "090199",
+		"bidang" : "09",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "0902",
+		"bidang" : "09",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Keselamatan Jalan Raya",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "090201",
+		"bidang" : "09",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Peralatan Keselamatan\/ Perabot Jalan Raya",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "090299",
+		"bidang" : "09",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat Keselamatan\/ Perabot Jalan Raya",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "10",
+		"bidang" : "10",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERALATAN SUKATAN DAN UKURAN",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1001",
+		"bidang" : "10",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Sukatan Dan Ukuran",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "100101",
+		"bidang" : "10",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Semua Peralatan Sukatan\/ Ukuran",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "100199",
+		"bidang" : "10",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "11",
+		"bidang" : "11",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PENGANGKUTAN, KOMPONEN DAN AKSESORI",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1101",
+		"bidang" : "11",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Kenderaan Bermotor Dan Tidak Bermotor",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110101",
+		"bidang" : "11",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Basikal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110102",
+		"bidang" : "11",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Motosikal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110103",
+		"bidang" : "11",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Kereta",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110104",
+		"bidang" : "11",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Lori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110105",
+		"bidang" : "11",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Bas",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110106",
+		"bidang" : "11",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Kenderaan Kegunaan Khusus",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110199",
+		"bidang" : "11",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1102",
+		"bidang" : "11",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Jentera Berat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110201",
+		"bidang" : "11",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Jentera Berat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110202",
+		"bidang" : "11",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kren",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110203",
+		"bidang" : "11",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Trailer Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110299",
+		"bidang" : "11",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1103",
+		"bidang" : "11",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Alat Ganti Dan Aksesori Kenderaan\/ Jentera Berat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110301",
+		"bidang" : "11",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Alat Ganti\/ Aksesori Kenderaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110302",
+		"bidang" : "11",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Alat Ganti\/ Aksesori Jentera Berat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110303",
+		"bidang" : "11",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Enjin Kenderaan\/ Jentera Berat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110304",
+		"bidang" : "11",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Peralatan Servis Dan Selenggara",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110399",
+		"bidang" : "11",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1104",
+		"bidang" : "11",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Kenderaan Ber Rel, Peralatan Dan Alat Ganti",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110401",
+		"bidang" : "11",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kenderaan Ber Rel, Peralatan Dan Kereta Kabel",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110402",
+		"bidang" : "11",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Lokomotif Dan Troli Elektrik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110403",
+		"bidang" : "11",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Sistem, Peralatan, Alat Ganti Keretapi Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110499",
+		"bidang" : "11",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1105",
+		"bidang" : "11",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Pesawat Udara, Kapal Terbang, Kapal Angkasa, Satelit, Radar",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110501",
+		"bidang" : "11",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Pesawat Udara",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110502",
+		"bidang" : "11",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Helikopter",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110503",
+		"bidang" : "11",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Alatganti Dan Kelengkapan Pesawat\/ Helikopter",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110504",
+		"bidang" : "11",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Kapal Angkasa Dan Alatganti",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110505",
+		"bidang" : "11",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Satelit Dan Alatganti",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110506",
+		"bidang" : "11",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Radar Dan Alatganti",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110507",
+		"bidang" : "11",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Simulator",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110599",
+		"bidang" : "11",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1106",
+		"bidang" : "11",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Bot Dan Kapal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110601",
+		"bidang" : "11",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Bot",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110602",
+		"bidang" : "11",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kapal Laut\/ Kapal Selam",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110603",
+		"bidang" : "11",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Alat Ganti Dan Kelengkapan Bot\/ Kapal\/ Kapal Selam",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110604",
+		"bidang" : "11",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Simulator Bot\/ Kapal\/ Kapal Selam",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110699",
+		"bidang" : "11",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1107",
+		"bidang" : "11",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Marin",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110701",
+		"bidang" : "11",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Peralatan Marin",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "110799",
+		"bidang" : "11",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "12",
+		"bidang" : "12",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERTAHANAN DAN KESELAMATAN",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1201",
+		"bidang" : "12",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Senjata, Peluru, Bahan Letupan Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120101",
+		"bidang" : "12",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Senjata Api",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120102",
+		"bidang" : "12",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Peluru Dan Bom",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120103",
+		"bidang" : "12",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Aksesori Senjata Api",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120104",
+		"bidang" : "12",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Bahan Letupan\/ Complete Rounds",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120199",
+		"bidang" : "12",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1202",
+		"bidang" : "12",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Kelengkapan Sasaran",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120201",
+		"bidang" : "12",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kelengkapan Sasaran",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120299",
+		"bidang" : "12",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1203",
+		"bidang" : "12",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Misil, Roket Dan Sub-Sistem",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120301",
+		"bidang" : "12",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Peluru Berpandu",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120302",
+		"bidang" : "12",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Sub Sistem Roket",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120303",
+		"bidang" : "12",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Pelancar Misil Dan Roket",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120399",
+		"bidang" : "12",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1204",
+		"bidang" : "12",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Keselamatan Dan Penguatkuasaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120401",
+		"bidang" : "12",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Alat Keselamatan, Perlindungan Dan Kawalan Perlindungan Dan Kawalan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120402",
+		"bidang" : "12",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Alat Forensik Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120499",
+		"bidang" : "12",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1205",
+		"bidang" : "12",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Pengesanan, Pemantauan Dan Perlindungan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120501",
+		"bidang" : "12",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kunci, Perkakasan Perlindungan Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120502",
+		"bidang" : "12",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Peralatan Pemantauan Dan Pengesanan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120503",
+		"bidang" : "12",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Lesen\/ Pengenalan Dan Pas Keselamatan Bersalut (Laminated)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120599",
+		"bidang" : "12",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1206",
+		"bidang" : "12",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perlindungan Kebakaran",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120601",
+		"bidang" : "12",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Sistem Pencegah Kebakaran",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120602",
+		"bidang" : "12",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Peralatan Kawalan Api",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "120699",
+		"bidang" : "12",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "13",
+		"bidang" : "13",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERALATAN KEJURUTERAAN DAN MESIN PENGELUARAN",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1301",
+		"bidang" : "13",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Mesin, Kelengkapan Bengkel Dan Mesin Pengeluaran",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "130101",
+		"bidang" : "13",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Mesin Dan Kelengkapan Bengkel",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "130102",
+		"bidang" : "13",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Mesin Dan Kelengkapan Khusus",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "130199",
+		"bidang" : "13",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1302",
+		"bidang" : "13",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Janakuasa Elektrik Dan Peralatan Generator\/ Alat Ganti Dan Bateri",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "130201",
+		"bidang" : "13",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Janakuasa, Peralatan\/ Alat Ganti\/ Aksesori (Secondary)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "130202",
+		"bidang" : "13",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Mesin Dan Kelengkapan Khusus",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "130299",
+		"bidang" : "13",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1303",
+		"bidang" : "13",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Sistem Kumbahan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "130301",
+		"bidang" : "13",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Peralatan Sistem Kumbahan Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "130399",
+		"bidang" : "13",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1304",
+		"bidang" : "13",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Perindustrian Minyak",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "130401",
+		"bidang" : "13",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Peralatan Perindustrian Huluan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "130402",
+		"bidang" : "13",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Peralatan Perindustrian Hiliran",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "130499",
+		"bidang" : "13",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "14",
+		"bidang" : "14",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERALATAN KEJURUTERAAN ELEKTRIK DAN ELEKTRONIK",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1401",
+		"bidang" : "14",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Mesin Dan Jentera Penjanaan Dan Pengagihan Tenaga Elektrik Serta Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140101",
+		"bidang" : "14",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Motor Dan Alat Ubah\/ Alat Ganti",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140102",
+		"bidang" : "14",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Enjin, Komponen Enjin Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140103",
+		"bidang" : "14",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Komponen Enjin Pembakaran Dalaman\/ Gas Turbine",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140199",
+		"bidang" : "14",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1402",
+		"bidang" : "14",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Stesen Janakuasa Elektrik Dan Peralatan Generator\/ Alat Ganti Dan Bateri",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140201",
+		"bidang" : "14",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Stesen Janakuasa, Peralatan\/ Alat Ganti\/ Aksesori (Primary)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140202",
+		"bidang" : "14",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Penjana Kuasa",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140203",
+		"bidang" : "14",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Alat Penyimpan Tenaga Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140299",
+		"bidang" : "14",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1403",
+		"bidang" : "14",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Kabel, Wayar Elektrik Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140301",
+		"bidang" : "14",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kabel Elektrik Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140302",
+		"bidang" : "14",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Wayar Elektrik Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140399",
+		"bidang" : "14",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1404",
+		"bidang" : "14",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Untuk Tenaga Atom Dan Nuklear",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140401",
+		"bidang" : "14",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Reaktor Dan Instrumen Nuklear",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140499",
+		"bidang" : "14",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "1405",
+		"bidang" : "14",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Sistem, Komponen Elektrik, Elektronik, Lampu Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140501",
+		"bidang" : "14",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Sistem Elektronik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140502",
+		"bidang" : "14",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Komponen Dan Aksesori Elektrik\/ Elektronik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140503",
+		"bidang" : "14",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Lampu, Komponen Lampu Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "140599",
+		"bidang" : "14",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "21",
+		"bidang" : "21",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "ICT (INFORMATION COMMUNICATION TECHNOLOGY) (Bekalan Dan Perkhidmatan Bagi Sektor Teknologi Maklumat Dan Komunikasi)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2101",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Dan Kelengkapan Komputer, Perkakasan Dan Komponen",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210101",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Hardware (Low End Technology) – Supply All Types of Computer Hardware Including PC, Notebook, Printer, Document Scanner, Peripherals And Maintenance",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210102",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Hardware (High End Technology) – All Types of Server, Mainframe, High End Printers, Storage Area Network Software (SAN, NAS) Including Maintenance",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210103",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Software – Supply All Computers Software, Operating System, Database, Off-The-Shelf Packages Including Maintenance",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210104",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Software\/ System Development\/ Customization and Maintenance Including Data Entry, Data Processing",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210105",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Telecommunication\/ Networking-supply Product, Infrastructure, Services Including Maintenance (LAN\/ WAN\/ Internet\/ Wireless\/ Satellite)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210106",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Data Management – Provide Services Including Disaster",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210107",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "ICT Security and Firewall, Encryption, PKI, Anti Virus",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210108",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Multimedia-Products, Services and Maintenance (Video Conferencing, Web Cast, Graphic Design, Animation)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210109",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Hardware and Software Leasing\/ Renting",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210110",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Geographic Information System (GIS) and Services",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210111",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "11",
+		"perihal" : "Independent Verification and Validation (IV&V)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210199",
+		"bidang" : "21",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2102",
+		"bidang" : "21",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Peralatan Dan Kelengkapan Telekomunikasi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210201",
+		"bidang" : "21",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Alat Perhubungan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210202",
+		"bidang" : "21",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Sistem Perhubungan\/ Telekomunikasi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210203",
+		"bidang" : "21",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Aksesori Penghubung Dan Telekomunikasi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "210299",
+		"bidang" : "21",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "99",
+		"perihal" : "Pembuat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "22",
+		"bidang" : "22",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERKHIDMATAN",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2201",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Penyelenggaraan Dan Pembaikan Kenderaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220101",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Basikal (Tidak Perlu Lawatan Pengesahan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220102",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Motosikal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220103",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Kenderaan Kegunaan Khusus (Seperti Kenderaan Rekreasi)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220104",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Kenderaan Bawah 3 Ton",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220105",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Kenderaan Melebihi 3 Ton",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220106",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Jentera Berat (Lori Pelarik Tanah, Roller Dan Forklift)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220107",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Kerja-Kerja Khusus (Baikpulih Enjin) Dan Sebagainya",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220108",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Kerja-Kerja Mengetuk dan Mengecat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220109",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Alat Hawa Dingin Kenderaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220110",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Membaik Pulih Tempat Duduk\/ Kusyen Dan Bumbung",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220111",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "11",
+		"perihal" : "Kerja-Kerja Pembaikan Kenderaan Ber Rel Dan Kereta Kabel",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220112",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "12",
+		"perihal" : "Kerja-Kerja Penyelenggaraan Sistem Kenderaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220113",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "13",
+		"perihal" : "Membaik Pulih Tayar (Tidak Perlu Lawatan Pengesahan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220114",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "14",
+		"perihal" : "Membaik Pulih Bateri (Tidak Perlu Lawatan Pengesahan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220115",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "15",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Motosikal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220116",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "16",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Kenderaan Kegunaan Khusus",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220117",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "17",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Kenderaan Bawah 3 Ton",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220118",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "18",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Kenderaan Melebihi 3 Ton",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220119",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "19",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Jentera Berat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220120",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "20",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Kerja-Kerja Khusus (Baikpulih  Enjin) Dan Sebagainya",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220121",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "21",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Kerja-kerja Mengetuk dan Mengecat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220122",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "22",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Alat Hawa Dingin Kenderaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220123",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "23",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Membaik Pulih Tempat Duduk\/ Kusyen dan Bumbung",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220124",
+		"bidang" : "22",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "24",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Kerja-Kerja Penyelenggaraan Sistem Kenderaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2202",
+		"bidang" : "22",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Penyelenggaraan\/ Pembaikan Mesin, Perabot Pejabat\/ Kediaman",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220201",
+		"bidang" : "22",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Mesin-Mesin Pejabat\/ Kediaman",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220202",
+		"bidang" : "22",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Perabot Pejabat\/ Kediaman",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220203",
+		"bidang" : "22",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Alat Muzik, Kesenian Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2203",
+		"bidang" : "22",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Penyelenggaraan\/ Pembaikan Alat Hawa Dingin",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220301",
+		"bidang" : "22",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Alat Hawa Dingin (Window\/ Split\/ Berpusat)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2204",
+		"bidang" : "22",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Penyelenggaraan\/ Pembaikan Alat Keselamatan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220401",
+		"bidang" : "22",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Alat Kebombaan\/ Alat Penyelamat\/ Pemadam Api",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220402",
+		"bidang" : "22",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Peralatan Kawalan Keselamatan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220403",
+		"bidang" : "22",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Mesin Pengimbas",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2205",
+		"bidang" : "22",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Penyelenggaraan\/ Pembaikan Kejuruteraan Dan Komunikasi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220501",
+		"bidang" : "22",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Alat Semboyan\/ Perhubungan\/ Penyiaran",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220502",
+		"bidang" : "22",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kontena\/ Tangki",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220503",
+		"bidang" : "22",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Perkakas\/ Sistem Elektrik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220504",
+		"bidang" : "22",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Mesin dan Peralatan Woksyop",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220505",
+		"bidang" : "22",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Mechanisation System",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220506",
+		"bidang" : "22",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Membaiki Buff Fuel Tank",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220507",
+		"bidang" : "22",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Pump\/ Paip Air Dan Komponen",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220508",
+		"bidang" : "22",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Baikpulih Barang-Barang Logam",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220509",
+		"bidang" : "22",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Production Testing, Surface Well Testing and Wire Line Services",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220510",
+		"bidang" : "22",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Faksimili",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2206",
+		"bidang" : "22",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Penyelenggaraan\/ Pembaikan Peralatan\/ Kelengkapan Perubatan dan Makmal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220601",
+		"bidang" : "22",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Alat Kelengkapan Perubatan\/ Makmal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220602",
+		"bidang" : "22",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Mesin Dan Peralatan Makmal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2207",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Penyelenggaraan\/ Pembaikan Bot\/ Kapal, Helikopter, Simulator Dan Pesawat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220701",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Bot\/ Kapal\/ Barge\/ Kapal Selam\/ Jet Ski\/ Sampan (Limbungan\/ Tanpa Limbungan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220702",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Sand Blasting Dan Mengecat Untuk Kapal (Tidak Perlu Lawatan Pengesahan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220703",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Penyelenggaraan Kapal Terbang",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220704",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Penyelenggaraan Helikopter",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220705",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Penyelenggaraan Simulator Kapal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220706",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Penyelenggaraan Simulator Kapal Terbang",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220707",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Penyelenggaraan Simulator Helikopter",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220708",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Pembaikan Kenderaan Yang Tidak Berenjin",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220709",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Kerja Pembaikan Kapal Angkasa\/ Satelit",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220710",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Alat-Alat Marin (Tidak Termasuk Bot\/ Kapal)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220711",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "11",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Bot\/ Kapal\/ Barge\/ Kapal Selam \/Jet Ski (Limbungan\/ Tanpa Limbungan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220712",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "12",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Sand Blasting Dan Mengecat Untuk Kapal\"",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220713",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "13",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Penyelenggaraan Kapal Terbang",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220714",
+		"bidang" : "22",
+		"sub_bidang" : "07",
+		"pecahan_sub_bidang" : "14",
+		"perihal" : "Kenderaan Pertahanan\/ Keselamatan Negara – Penyelenggaraan Helikopter",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2208",
+		"bidang" : "22",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Pertahanan Dan Keselamatan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220801",
+		"bidang" : "22",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kawalan Keselamatan (Perlu lesen KDN)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220802",
+		"bidang" : "22",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Penyiasat Persendirian (Perlu lesen KDN)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220803",
+		"bidang" : "22",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Penyelenggaraan Dan Pembaikan Senjata",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220804",
+		"bidang" : "22",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Penyelenggaraan Misil\/ Roket Dan Sub Sistem, Pelancar",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2209",
+		"bidang" : "22",
+		"sub_bidang" : "09",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Pengawalan Dan Pengawasan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220901",
+		"bidang" : "22",
+		"sub_bidang" : "09",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kawalan Serangga Perosak, Anti Termite (Perlu Lesen Pengendali Kawalan Makhluk Perosak dari Jabatan Pertanian)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "220902",
+		"bidang" : "22",
+		"sub_bidang" : "09",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Menangkap\/ Menembak Haiwan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2210",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Khidmat Kebersihan Dan Rawatan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221001",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Pembersihan Bangunan Dan Pejabat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221002",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Membersih Kawasan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221003",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Mengangkat Sampah",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221004",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Membersih Kenderaan (Perlu Lesen PBT)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221005",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Mencuci Kolam Renang",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221006",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Membersih Pantai\/ Sungai\/ Terusan\/ Empangan\/ Tasik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221007",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Pelupusan Dan Perawatan Sisa Berbahaya [Perlu Lesen daripada Lembaga Perlesenan Tenaga ATOM (AELB)]",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221008",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Pelupusan Dan Perawatan Buangan Terjadual (Perlu Lesen daripada Jabatan Alam Sekitar)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221009",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Pelupusan dan Rawatan Sisa Radio Aktif dan Nuklear [Perlu Lesen daripada Lembaga Perlesenan Tenaga ATOM (AELB)]",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221010",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Kolam Kumbahan\/ Sisa Perawatan\/ Talian Paip\/ Sesalur",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221011",
+		"bidang" : "22",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "11",
+		"perihal" : "Pembersihan Tumpahan Minyak",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2211",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Guna Tenaga",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221101",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kakitangan Iktisas (Profesional) - Tidak Termasuk Khidmat Perundingan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221102",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kakitangan Separa Iktisas (Semi Profesional) - Tidak Termasuk Khidmat Perundingan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221103",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Khidmat Guaman",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221104",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Tenaga Buruh",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221105",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Pemungut Hutang\/ Penghantar Notis",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221106",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Stevedor",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221107",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Telly Clerk",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221108",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Mengikat Dan Melepas Tali Kapal (Mooring)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221109",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Menyelam (Diving Service)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221110",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Khidmat Latihan, Tenaga Pengajar dan Moderator\/ Negotiator",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221111",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "11",
+		"perihal" : "Salvage Boat\/ Kapal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221112",
+		"bidang" : "22",
+		"sub_bidang" : "11",
+		"pecahan_sub_bidang" : "12",
+		"perihal" : "Malim Kapal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2212",
+		"bidang" : "22",
+		"sub_bidang" : "12",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Khidmat Udara\/ Laut\/ Darat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221201",
+		"bidang" : "22",
+		"sub_bidang" : "12",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Topografi\/ LIDAR",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221202",
+		"bidang" : "22",
+		"sub_bidang" : "12",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Pembajaan\/ Pest Control",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221203",
+		"bidang" : "22",
+		"sub_bidang" : "12",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Cloud Seeding",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221204",
+		"bidang" : "22",
+		"sub_bidang" : "12",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Hidrografi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221205",
+		"bidang" : "22",
+		"sub_bidang" : "12",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Oceanografi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221206",
+		"bidang" : "22",
+		"sub_bidang" : "12",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Pemetaan\/ Pemetaan Utiliti Bawah Tanah",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221207",
+		"bidang" : "22",
+		"sub_bidang" : "12",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Geologi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2213",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Kesenian, Hiburan Dan Pelancongan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221301",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Pengeluaran Filem (Perlu Lesen FINAS Borang A - Pengeluar)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221302",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Rakaman",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221303",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Fotografi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221304",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Audio Visual",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221305",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Penyediaan Pentas\/ Pameran Pertunjukan, Taman Hiburan Dan Karnival\/ Pestaria",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221306",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Artis Dan Penghibur Profesional",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221307",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Agen Pengembaraan (Dikhaskan Kepada Syarikat 100% Bumiputera)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221308",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Dokumentasi Dan Panduarah",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221309",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Pemeliharaan Bahan Bahan Sejarah Dan Tempat Bersejarah",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221310",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Penyimpanan Rekod (Surat Kelulusan Daripada Arkib Negara)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221311",
+		"bidang" : "22",
+		"sub_bidang" : "13",
+		"pecahan_sub_bidang" : "11",
+		"perihal" : "Membaikpulih Bahan Terbitan Dan Manuskrip (Surat Kelulusan Daripada Arkib Negara)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2214",
+		"bidang" : "22",
+		"sub_bidang" : "14",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Pengindahan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221401",
+		"bidang" : "22",
+		"sub_bidang" : "14",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Bangunan\/ Hiasan Dalaman (Tidak Termasuk Pelanskapan Dan Seni Taman)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221402",
+		"bidang" : "22",
+		"sub_bidang" : "14",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Hiasan Jalan\/ Kawasan (Tidak Termasuk Pelanskapan Dan Seni Taman)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2215",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Penyewaan Dan Pengurusan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221501",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Perabot\/ Kelengkapan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221502",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Mesin dan Peralatan Pejabat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221503",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Kenderaan\/ Jentera\/ Kenderaan Rekreasi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221504",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Kapal\/ Bot\/ Bot Tunda\/ Feri\/ Bot Malim\/ Barge\/ Jet Ski\/ Kapal Selam",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221505",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Kapal Terbang\/ Helikopter\/ Pesawat\/ Belon Panas\/ Simulator Serta Lain- Lain Kenderaan Udara",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221506",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Bangunan\/ Pejabat\/ Stor\/ Ruang Niaga\/ Rumah Kediaman",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221507",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Kemudahan Awam\/ Sukan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221508",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Peralatan\/ Kelengkapan Hospital Dan Makmal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221509",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Peralatan Keselamatan dan Senjata",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221510",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Tempat Letak Kereta",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221511",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "11",
+		"perihal" : "P.A Sistem Dan Alat Muzik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221512",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "12",
+		"perihal" : "Bantuan Kecemasan Dan Ambulans\/ Kenderaan Jenazah",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221513",
+		"bidang" : "22",
+		"sub_bidang" : "15",
+		"pecahan_sub_bidang" : "13",
+		"perihal" : "Pakaian\/ Kelengkapan Dan Aksesori",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2216",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Percetakan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221601",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Mencetak Buku, Majalah, Laporan Akhbar (Perlu Lesen KDN)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221602",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Mencetak Fail, Kad Perniagaan Dan Kad Ucapan (Perlu Lesen KDN)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221603",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Mencetak Label, Poster, Pelekat Dan Iron On (Perlu Lesen KDN)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221604",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Mencetak Label, Poster Dan Pelekat (Plastik) (Perlu Lesen KDN)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221605",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Mencetak Continuous Stationery Forms (Perlu Lesen KDN)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221606",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Mencetak Borang\/Kertas Komputer (Perlu Lesen KDN)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221607",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Cetakan Keselamatan (Perlu Lesen KDN Dan Surat Kelulusan Pejabat Ketua Pengarah Keselamatan Kerajaan, Jabatan Perdana Menteri) (Dikhaskan Kepada Syarikat 100% Bumiputera)\"",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221608",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Cetakan Hologram (Perlu Lesen KDN Dan Surat Kelulusan Pejabat Ketua Pengarah Keselamatan Kerajaan, Jabatan Perdana Menteri) (Dikhaskan Kepada Syarikat 100% Bumiputera)\"",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221609",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Pisah Warna (Colour Separation)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221610",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Menjilid Kulit Keras",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221611",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "11",
+		"perihal" : "Varnishing",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221612",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "12",
+		"perihal" : "Laminating",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221613",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "13",
+		"perihal" : "Menjilid Kulit Lembut",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221614",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "14",
+		"perihal" : "Pengatur Huruf (Type Setting)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221615",
+		"bidang" : "22",
+		"sub_bidang" : "16",
+		"pecahan_sub_bidang" : "15",
+		"perihal" : "Rekabentuk Percetakan (Printing Design)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2217",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perkhidmatan Pengangkutan, Penyimpanan Dan Pos",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221701",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Pemilik Kapal (Perlu Sijil MCR)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221702",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Broker Perkapalan (Perjanjian Daripada Syarikat Perkapalan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221703",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Agen Perkapalan (Perlu Lesen Kastam)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221704",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Pengangkutan Lori (Perlu Lesen APAD)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221705",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Agen Penghantaran (Perlu Lesen Kastam)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221706",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Pembungkusan Dan Penyimpanan (Perlu Gudang Berlesen Kastam Dan Lesen PBT)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221707",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Pembungkusan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221708",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Penghantaran Dokumen (Perlu Lesen Pos)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221709",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Multimodal Transport Operator (MTO)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221710",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Perkhidmatan Mel Pukal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221711",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "11",
+		"perihal" : "Pengurusan Pelabuhan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221712",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "12",
+		"perihal" : "Ship Chandling",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221713",
+		"bidang" : "22",
+		"sub_bidang" : "17",
+		"pecahan_sub_bidang" : "13",
+		"perihal" : "Ship Trimming",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2218",
+		"bidang" : "22",
+		"sub_bidang" : "18",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perkhidmatan Kewangan Dan Insuran",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221801",
+		"bidang" : "22",
+		"sub_bidang" : "18",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Syarikat Insuran (Perlu Lesen Bank Negara Malaysia)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221802",
+		"bidang" : "22",
+		"sub_bidang" : "18",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Broker Insuran (Perlu Lesen Bank Negara Malaysia)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221803",
+		"bidang" : "22",
+		"sub_bidang" : "18",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Penyediaan Akaun Dan Pengauditan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221804",
+		"bidang" : "22",
+		"sub_bidang" : "18",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Pengurusan Kewangan Dan Korporat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221805",
+		"bidang" : "22",
+		"sub_bidang" : "18",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Pemfaktoran (Dimansuhkan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221806",
+		"bidang" : "22",
+		"sub_bidang" : "18",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Syarikat Pelelong Awam (Perlu Lesen Pelelong PBT)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2219",
+		"bidang" : "22",
+		"sub_bidang" : "19",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Barang Lusuh",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221901",
+		"bidang" : "22",
+		"sub_bidang" : "19",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Membeli Barang Lusuh Tanpa Permit",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "221902",
+		"bidang" : "22",
+		"sub_bidang" : "19",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Membeli Barang Lusuh Perlu Permit (Perlu Permit PDRM)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2220",
+		"bidang" : "22",
+		"sub_bidang" : "20",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Editorial, Rakbentuk Grafik, Seni Halus Dan Harta Intelek",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222001",
+		"bidang" : "22",
+		"sub_bidang" : "20",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Media Elektronik (Tidak Termasuk Kerja-kerja Percetakan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222002",
+		"bidang" : "22",
+		"sub_bidang" : "20",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Media Cetak (Tidak Termasuk Kerja-kerja Percetakan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222003",
+		"bidang" : "22",
+		"sub_bidang" : "20",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Bill Board",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222004",
+		"bidang" : "22",
+		"sub_bidang" : "20",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Penulisan – Semua Jenis Penulisan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222005",
+		"bidang" : "22",
+		"sub_bidang" : "20",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Mereka-Cipta Dan Seni Halus",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222006",
+		"bidang" : "22",
+		"sub_bidang" : "20",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Penterjemahan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222007",
+		"bidang" : "22",
+		"sub_bidang" : "20",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Pengkomersilan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222008",
+		"bidang" : "22",
+		"sub_bidang" : "20",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Hak Harta Intelek (Patent)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222009",
+		"bidang" : "22",
+		"sub_bidang" : "20",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Lain-lain Media Media Pengiklanan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222010",
+		"bidang" : "22",
+		"sub_bidang" : "20",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Perkhidmatan Fotostat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2221",
+		"bidang" : "22",
+		"sub_bidang" : "21",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perkhidmatan Perladangan\/ Perikanan\/ Haiwan Dan Hidupan Liar",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222101",
+		"bidang" : "22",
+		"sub_bidang" : "21",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Perikanan Dan Akuakultur",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222102",
+		"bidang" : "22",
+		"sub_bidang" : "21",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Hortikultur",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222103",
+		"bidang" : "22",
+		"sub_bidang" : "21",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Ternakan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222104",
+		"bidang" : "22",
+		"sub_bidang" : "21",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Pertanian\/ Tanaman\/ Ladang\/ Taman\/ Hutan Dan Ladang Hutan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222105",
+		"bidang" : "22",
+		"sub_bidang" : "21",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Rawatan Hutan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222106",
+		"bidang" : "22",
+		"sub_bidang" : "21",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Sumber Air",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222107",
+		"bidang" : "22",
+		"sub_bidang" : "21",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Tatahias Haiwan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222108",
+		"bidang" : "22",
+		"sub_bidang" : "21",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Tukun Tiruan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2222",
+		"bidang" : "22",
+		"sub_bidang" : "22",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perkhidmatan Hal Ehwal Sosial Dan Politik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222201",
+		"bidang" : "22",
+		"sub_bidang" : "22",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Hubungan Antarabangsa",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222202",
+		"bidang" : "22",
+		"sub_bidang" : "22",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Bantuan Kemanusiaan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222203",
+		"bidang" : "22",
+		"sub_bidang" : "22",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Dasar Dan Peraturan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2223",
+		"bidang" : "22",
+		"sub_bidang" : "23",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perkhidmatan Domestik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222301",
+		"bidang" : "22",
+		"sub_bidang" : "23",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Solekan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222302",
+		"bidang" : "22",
+		"sub_bidang" : "23",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Dobi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222303",
+		"bidang" : "22",
+		"sub_bidang" : "23",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Membekal Air",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222304",
+		"bidang" : "22",
+		"sub_bidang" : "23",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Pengurusan Jenazah Dan Kelengkapan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222305",
+		"bidang" : "22",
+		"sub_bidang" : "23",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Mengangkut Mayat",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2224",
+		"bidang" : "22",
+		"sub_bidang" : "24",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perkhidmatan Menjahit Dan Baik Pulih",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222401",
+		"bidang" : "22",
+		"sub_bidang" : "24",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Menjahit Pakaian Dan Kelengkapan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222402",
+		"bidang" : "22",
+		"sub_bidang" : "24",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Menjahit Bukan Pakaian",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222403",
+		"bidang" : "22",
+		"sub_bidang" : "24",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Baik Pulih Kasut Dan Barangan Kulit",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222404",
+		"bidang" : "22",
+		"sub_bidang" : "24",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Barangan PVC\/ Kanvas",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222405",
+		"bidang" : "22",
+		"sub_bidang" : "24",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Barangan Logam",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2225",
+		"bidang" : "22",
+		"sub_bidang" : "25",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Hotel, Rumah Tumpangan Dan Pusat Latihan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222501",
+		"bidang" : "22",
+		"sub_bidang" : "25",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Hotel\/ Resort (Perlu Sijil Pendaftaran Premis Penginapan bawah Akta Industri Pelancongan 1992 MOTAC dan Lesen PBT)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222502",
+		"bidang" : "22",
+		"sub_bidang" : "25",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Motel\/ Chalet\/ Rumah Tumpangan (Perlu Lesen PBT)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222503",
+		"bidang" : "22",
+		"sub_bidang" : "25",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Homestay (Perlu Kementerian Surat Kementerian Pelancongan)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222504",
+		"bidang" : "22",
+		"sub_bidang" : "25",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Pusat Latihan (Perlu Lesen PBT)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2226",
+		"bidang" : "22",
+		"sub_bidang" : "26",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perkhidmatan Kejuruteraan Elektrik Dan Elektronik",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222601",
+		"bidang" : "22",
+		"sub_bidang" : "26",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Akustik Dan Gelombang",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222602",
+		"bidang" : "22",
+		"sub_bidang" : "26",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Pencahayaan (Illumination)",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2227",
+		"bidang" : "22",
+		"sub_bidang" : "27",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perkhidmatan Lain-lain",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222701",
+		"bidang" : "22",
+		"sub_bidang" : "27",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Pengurusan Telekomunikasi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222702",
+		"bidang" : "22",
+		"sub_bidang" : "27",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Marker\/ DNA",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222703",
+		"bidang" : "22",
+		"sub_bidang" : "27",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Bioteknologi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222704",
+		"bidang" : "22",
+		"sub_bidang" : "27",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Pensijilan Dan Pengiktirafan",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222705",
+		"bidang" : "22",
+		"sub_bidang" : "27",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Ujian Makmal",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222706",
+		"bidang" : "22",
+		"sub_bidang" : "27",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Kodifikasi",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222707",
+		"bidang" : "22",
+		"sub_bidang" : "27",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Perkhidmatan Perubatan - Dialisis",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2228",
+		"bidang" : "22",
+		"sub_bidang" : "28",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Perkidmatan Teknologi Hijau",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222801",
+		"bidang" : "22",
+		"sub_bidang" : "28",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Teknologi Hijau [Surat\/ Sijil Daripada Suruhanjaya Tenaga (Energy Commission) atau Malaysia Green Technology Corporation]",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "2229",
+		"bidang" : "22",
+		"sub_bidang" : "29",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "Seni Ukir",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "222901",
+		"bidang" : "22",
+		"sub_bidang" : "29",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Ukiran Berasaskan Kayu [Perlu Kemukakan Sijil Pendaftaran Dengan Perbadanan Kemajuan Kraftangan Malaysia (PKKM)]",
+		"jenis_pembekal" : "Kontraktor"
+	},
+	{
+		"kod_bidang" : "33",
+		"bidang" : "33",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERKHIDMATAN PERUNDING FIZIKAL",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "3301",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "KEJURUTERAAN",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330101",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kejuruteraan Awam",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330102",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kejuruteraan Struktur",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330103",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Kejuruteraan Elektrik",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330104",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Kejuruteraan Mekanikal",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330105",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Kejuruteraan Elektronik",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330106",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Kejuruteraan Kimia",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330107",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Kejuruteraan Perlombongan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330108",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Kejuruteraan Marin",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330109",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Kejuruteraan Geoteknik",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330110",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Kejuruteraan Industri",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330111",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "11",
+		"perihal" : "Kejuruteraan ‘Naval Architecture’",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330112",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "12",
+		"perihal" : "Kejuruteraan Aeroangkasa",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330113",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "13",
+		"perihal" : "Kejuruteraan Pertanian",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330114",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "14",
+		"perihal" : "Kejuruteraan Telekomunikasi",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330115",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "15",
+		"perihal" : "Kejuruteraan Nuklear",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330116",
+		"bidang" : "33",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "16",
+		"perihal" : "Penilaian Harta (Forensic)",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "3302",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "BUKAN KEJURUTERAAN",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330201",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Arkitek",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330202",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Ukur Bahan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330203",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Ukur Tanah",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330204",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Hiasan Dalaman",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330205",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Arkitek Lanskap",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330206",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Perancang Bandar Dan Wilayah",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330207",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Kajian Alam Sekitar",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330208",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Ukur Bangunan (Institut Juruukur Malaysia)",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330209",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Pengurusan Nilai Fizikal",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330210",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "10",
+		"perihal" : "Sains Kesihatan\/Perancangan Perubatan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "330211",
+		"bidang" : "33",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "11",
+		"perihal" : "Geologi",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "34",
+		"bidang" : "34",
+		"sub_bidang" : null,
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERKHIDMATAN PERUNDING BUKAN FIZIKAL",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "3401",
+		"bidang" : "34",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "SOSIO EKONOMI",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340101",
+		"bidang" : "34",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kajian Organisasi",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340102",
+		"bidang" : "34",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kajian Penswastaan dan Pengkomersilan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340103",
+		"bidang" : "34",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Kajian Ekonomi",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340104",
+		"bidang" : "34",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Kajian Kemasyarakatan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340105",
+		"bidang" : "34",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Kajian Pemasaran dan Penyelidikan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340106",
+		"bidang" : "34",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Kajian Sumber Manusia",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340107",
+		"bidang" : "34",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "07",
+		"perihal" : "Kajian Pelancongan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340108",
+		"bidang" : "34",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "08",
+		"perihal" : "Kajian Keselamatan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340109",
+		"bidang" : "34",
+		"sub_bidang" : "01",
+		"pecahan_sub_bidang" : "09",
+		"perihal" : "Pengurusan Nilai Bukan Fizikal",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "3402",
+		"bidang" : "34",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PENGANGKUTAN",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340201",
+		"bidang" : "34",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kajian Rangkaian Pengangkutan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340202",
+		"bidang" : "34",
+		"sub_bidang" : "02",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kajian Trafik",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "3403",
+		"bidang" : "34",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "MARIN",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340301",
+		"bidang" : "34",
+		"sub_bidang" : "03",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kajian Marin",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "3404",
+		"bidang" : "34",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "KEWANGAN",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340401",
+		"bidang" : "34",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kajian Kewangan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340402",
+		"bidang" : "34",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kajian Percukaian",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340403",
+		"bidang" : "34",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Penilaian Harta\/Hartanah",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340404",
+		"bidang" : "34",
+		"sub_bidang" : "04",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Kajian Pelaburan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "3405",
+		"bidang" : "34",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERTANIAN",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340501",
+		"bidang" : "34",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kajian Perhutanan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340502",
+		"bidang" : "34",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kajian Pertanian",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340503",
+		"bidang" : "34",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Kajian Sumber Asli\/Rekreasi & Taman-Taman",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340504",
+		"bidang" : "34",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Teknologi Makanan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340505",
+		"bidang" : "34",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Kajian Perikanan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340506",
+		"bidang" : "34",
+		"sub_bidang" : "05",
+		"pecahan_sub_bidang" : "06",
+		"perihal" : "Kajian Komoditi",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "3406",
+		"bidang" : "34",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "INFORMASI DAN TEKNOLOGI MAKLUMAT (ICT)",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340601",
+		"bidang" : "34",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kajian Telekomunikasi",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340602",
+		"bidang" : "34",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Perancangan Strategik ICT (ISP)",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340603",
+		"bidang" : "34",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "03",
+		"perihal" : "Kajian Pengurusan Infrastruktur ICT",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340604",
+		"bidang" : "34",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "04",
+		"perihal" : "Kajian Pengurusan Keselamatan ICT",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340605",
+		"bidang" : "34",
+		"sub_bidang" : "06",
+		"pecahan_sub_bidang" : "05",
+		"perihal" : "Kajian Pengurusan Maklumat ICT",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "3408",
+		"bidang" : "34",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PENCAHAYAAN & BUNYI",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340801",
+		"bidang" : "34",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kajian Pencahayaan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340802",
+		"bidang" : "34",
+		"sub_bidang" : "08",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kajian Audiovisual dan Akustik",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "3409",
+		"bidang" : "34",
+		"sub_bidang" : "09",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "PERUNDANGAN",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "340901",
+		"bidang" : "34",
+		"sub_bidang" : "09",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kajian Perundangan",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "3410",
+		"bidang" : "34",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : null,
+		"perihal" : "TENAGA",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "341001",
+		"bidang" : "34",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "01",
+		"perihal" : "Kajian Pengurusan Tenaga",
+		"jenis_pembekal" : "Perunding"
+	},
+	{
+		"kod_bidang" : "341002",
+		"bidang" : "34",
+		"sub_bidang" : "10",
+		"pecahan_sub_bidang" : "02",
+		"perihal" : "Kajian Teknologi Hijau",
+		"jenis_pembekal" : "Perunding"
+	}
+]}
