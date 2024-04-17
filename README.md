@@ -1,5 +1,5 @@
 # kod-bidang-eperolehan
-List of kod bidang eperolehan extract from eperolehan website on April 2024 into my db.
+List of kod bidang eperolehan extract from eperolehan pdf document guide on April 2024.
 
 Reference:
 
